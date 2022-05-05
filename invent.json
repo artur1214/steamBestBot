@@ -1,0 +1,954 @@
+{
+  "25147361045": {
+    "appid": 730,
+    "classid": "4775726146",
+    "instanceid": "188530139",
+    "currency": 0,
+    "background_color": "",
+    "icon_url": "-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXQ9QVcJY8gulRNQ0PCS_2S093SRFM7JgxetbGgJUlhh6WZJ2kSvYqwltOIk6Ckau6Hx20GvJdw27qXpNvziVWy_RA9Z236OsbLJWTBeEaT",
+    "icon_url_large": "-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXQ9QVcJY8gulRNQ0PCS_2S093SRFM7JgxetbGgJThs0uHPdHMT7YXgx9mOkfbxZu6BwDgIscRz2LGUoNrzjQK2qUc9Zj-hcIKRc1Q9fxiOrXHNiU6S",
+    "descriptions": [
+      {
+        "type": "html",
+        "value": "This sticker can be applied to any weapon you own and can be scraped to look more worn. You can scrape the same sticker multiple times, making it a bit more worn each time, until it is removed from the weapon."
+      },
+      {
+        "type": "html",
+        "value": " "
+      },
+      {
+        "type": "html",
+        "value": "",
+        "color": "00a000"
+      }
+    ],
+    "tradable": 0,
+    "actions": [
+      {
+        "link": "steam://rungame/730/76561202255233023/+csgo_econ_action_preview%20S%owner_steamid%A%assetid%D16771629236243911369",
+        "name": "Inspect in Game..."
+      }
+    ],
+    "owner_descriptions": [
+      {
+        "type": "html",
+        "value": " "
+      },
+      {
+        "type": "html",
+        "value": "Tradable After Mar 19, 2022 (7:00:00) GMT",
+        "color": "ff4040"
+      }
+    ],
+    "name": "Sticker | Poorly Drawn Chicken",
+    "name_color": "D2D2D2",
+    "type": "High Grade Sticker",
+    "market_name": "Sticker | Poorly Drawn Chicken",
+    "market_hash_name": "Sticker | Poorly Drawn Chicken",
+    "market_actions": [
+      {
+        "link": "steam://rungame/730/76561202255233023/+csgo_econ_action_preview%20M%listingid%A%assetid%D16771629236243911369",
+        "name": "Inspect in Game..."
+      }
+    ],
+    "commodity": 1,
+    "market_tradable_restriction": 7,
+    "marketable": 1,
+    "tags": [
+      {
+        "category": "Type",
+        "internal_name": "CSGO_Tool_Sticker",
+        "localized_category_name": "Type",
+        "localized_tag_name": "Sticker"
+      },
+      {
+        "category": "Quality",
+        "internal_name": "normal",
+        "localized_category_name": "Category",
+        "localized_tag_name": "Normal"
+      },
+      {
+        "category": "Rarity",
+        "internal_name": "Rarity_Rare",
+        "localized_category_name": "Quality",
+        "localized_tag_name": "High Grade",
+        "color": "4b69ff"
+      },
+      {
+        "category": "StickerCapsule",
+        "internal_name": "crate_sticker_pack_poorly_drawn_lootlist",
+        "localized_category_name": "Sticker Collection",
+        "localized_tag_name": "Poorly Drawn Capsule"
+      }
+    ],
+    "contextid": "2",
+    "id": "25147361045",
+    "amount": "1"
+  },
+  "25146108937": {
+    "appid": 730,
+    "classid": "4775757361",
+    "instanceid": "188530139",
+    "currency": 0,
+    "background_color": "",
+    "icon_url": "-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXT4BhcJo8h5hhcX0nYS-WhztecQ1xgJgxovrakJx547PDFc3NB7d-zl9HSzqGnMb3VzjpQ7MEg3erE84333gDg8hc_am73JtPDIABofxiOrWpGgZzK",
+    "icon_url_large": "-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXT4BhcJo8h5hhcX0nYS-WhztecQ1xgJgxovrakJx547PDFcwJO7c6xkc7bk6DyMb6Gwz8JuZBzj7iY8Nv33lLh_Ettaj_1d4WXcARsNFqD-Vbo366x0qcFv8k0",
+    "descriptions": [
+      {
+        "type": "html",
+        "value": "This patch can be applied to any agent you own. Once applied, it can be removed but not recovered."
+      },
+      {
+        "type": "html",
+        "value": " "
+      },
+      {
+        "type": "html",
+        "value": "Half-Life: Alyx Commemorative Patch"
+      },
+      {
+        "type": "html",
+        "value": " "
+      },
+      {
+        "type": "html",
+        "value": "",
+        "color": "00a000"
+      }
+    ],
+    "tradable": 0,
+    "actions": [
+      {
+        "link": "steam://rungame/730/76561202255233023/+csgo_econ_action_preview%20S%owner_steamid%A%assetid%D9290344057539454539",
+        "name": "Inspect in Game..."
+      }
+    ],
+    "owner_descriptions": [
+      {
+        "type": "html",
+        "value": " "
+      },
+      {
+        "type": "html",
+        "value": "Tradable After Mar 19, 2022 (7:00:00) GMT",
+        "color": "ff4040"
+      }
+    ],
+    "name": "Patch | CMB",
+    "name_color": "D2D2D2",
+    "type": "High Grade Patch",
+    "market_name": "Patch | CMB",
+    "market_hash_name": "Patch | CMB",
+    "market_actions": [
+      {
+        "link": "steam://rungame/730/76561202255233023/+csgo_econ_action_preview%20M%listingid%A%assetid%D9290344057539454539",
+        "name": "Inspect in Game..."
+      }
+    ],
+    "commodity": 1,
+    "market_tradable_restriction": 7,
+    "marketable": 1,
+    "tags": [
+      {
+        "category": "Type",
+        "internal_name": "CSGO_Tool_Patch",
+        "localized_category_name": "Type",
+        "localized_tag_name": "Patch"
+      },
+      {
+        "category": "Quality",
+        "internal_name": "normal",
+        "localized_category_name": "Category",
+        "localized_tag_name": "Normal"
+      },
+      {
+        "category": "Rarity",
+        "internal_name": "Rarity_Rare",
+        "localized_category_name": "Quality",
+        "localized_tag_name": "High Grade",
+        "color": "4b69ff"
+      },
+      {
+        "category": "PatchCapsule",
+        "internal_name": "crate_patch_pack_hlalyx",
+        "localized_category_name": "Patch Collection",
+        "localized_tag_name": "Half-Life: Alyx Patch Pack"
+      }
+    ],
+    "contextid": "2",
+    "id": "25146108937",
+    "amount": "1"
+  },
+  "25144937537": {
+    "appid": 730,
+    "classid": "4775701592",
+    "instanceid": "188530139",
+    "currency": 0,
+    "background_color": "",
+    "icon_url": "-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXQ9QVcJY8gulROWUvRVeKs1MrsUFxkNhFbs_WvJAZunaORd24a7ou3wtHYwfGkMOiFwD4A7pwh3OiZptTw2gLj-0ZtYDqmIoWLMlhpsuXKYJs",
+    "icon_url_large": "-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXQ9QVcJY8gulROWUvRVeKs1MrsUFxkNhFbs_WvJAZu7P_JYzpHot_kwNOIwKCga-mJxjoDuZF0jLyT9N-hjQLnqkplYDqnJteRegA_M1nOug_pwbxbBMM",
+    "descriptions": [
+      {
+        "type": "html",
+        "value": "This sticker can be applied to any weapon you own and can be scraped to look more worn. You can scrape the same sticker multiple times, making it a bit more worn each time, until it is removed from the weapon."
+      },
+      {
+        "type": "html",
+        "value": " "
+      },
+      {
+        "type": "html",
+        "value": "",
+        "color": "00a000"
+      }
+    ],
+    "tradable": 0,
+    "actions": [
+      {
+        "link": "steam://rungame/730/76561202255233023/+csgo_econ_action_preview%20S%owner_steamid%A%assetid%D13864592753244732451",
+        "name": "Inspect in Game..."
+      }
+    ],
+    "owner_descriptions": [
+      {
+        "type": "html",
+        "value": " "
+      },
+      {
+        "type": "html",
+        "value": "Tradable After Mar 19, 2022 (7:00:00) GMT",
+        "color": "ff4040"
+      }
+    ],
+    "name": "Sticker | Joan",
+    "name_color": "D2D2D2",
+    "type": "High Grade Sticker",
+    "market_name": "Sticker | Joan",
+    "market_hash_name": "Sticker | Joan",
+    "market_actions": [
+      {
+        "link": "steam://rungame/730/76561202255233023/+csgo_econ_action_preview%20M%listingid%A%assetid%D13864592753244732451",
+        "name": "Inspect in Game..."
+      }
+    ],
+    "commodity": 1,
+    "market_tradable_restriction": 7,
+    "marketable": 1,
+    "tags": [
+      {
+        "category": "Type",
+        "internal_name": "CSGO_Tool_Sticker",
+        "localized_category_name": "Type",
+        "localized_tag_name": "Sticker"
+      },
+      {
+        "category": "Quality",
+        "internal_name": "normal",
+        "localized_category_name": "Category",
+        "localized_tag_name": "Normal"
+      },
+      {
+        "category": "Rarity",
+        "internal_name": "Rarity_Rare",
+        "localized_category_name": "Quality",
+        "localized_tag_name": "High Grade",
+        "color": "4b69ff"
+      },
+      {
+        "category": "StickerCapsule",
+        "internal_name": "crate_sticker_pack_sugarface_capsule_lootlist",
+        "localized_category_name": "Sticker Collection",
+        "localized_tag_name": "Sugarface Capsule"
+      }
+    ],
+    "contextid": "2",
+    "id": "25144937537",
+    "amount": "1"
+  },
+  "25144777067": {
+    "appid": 730,
+    "classid": "4775661135",
+    "instanceid": "480085569",
+    "currency": 0,
+    "background_color": "",
+    "icon_url": "-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXH5ApeO4YmlhxYQknCRvCo04DEVlxkKgpopb3wflFf0Ob3YjoXuY-JhJWHhPLLP7LWnn8fvpMki72X99zx2FC3_0M-MTilIIKTclBoNA3YrFe2yb--1pe66MnBzGwj5Hfq1kZOBw",
+    "icon_url_large": "-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXH5ApeO4YmlhxYQknCRvCo04DEVlxkKgpopb3wflFf0Ob3YjoXuY-JhJWHhPLLP7LWnn9u5MRjjeyP8dmj3A3k-xdsZj2lJNPAc1JvZlvXqQXrx-_rgcPuuZifmHFlvCgms2GdwUKNNulqdg",
+    "descriptions": [
+      {
+        "type": "html",
+        "value": "Exterior: Minimal Wear"
+      },
+      {
+        "type": "html",
+        "value": " "
+      },
+      {
+        "type": "html",
+        "value": "The terrorist-exclusive SG553 is a premium scoped alternative to the AK47 for effective long-range engagement. It has been painted with a hydrographic of bold fuchsia fragments.\n\n<i>Striking colors for a striking weapon</i>"
+      },
+      {
+        "type": "html",
+        "value": " "
+      },
+      {
+        "type": "html",
+        "value": "The Phoenix Collection",
+        "color": "9da1a9"
+      },
+      {
+        "type": "html",
+        "value": " "
+      }
+    ],
+    "tradable": 0,
+    "actions": [
+      {
+        "link": "steam://rungame/730/76561202255233023/+csgo_econ_action_preview%20S%owner_steamid%A%assetid%D616617133793889205",
+        "name": "Inspect in Game..."
+      }
+    ],
+    "owner_descriptions": [
+      {
+        "type": "html",
+        "value": " "
+      },
+      {
+        "type": "html",
+        "value": "Tradable After Mar 19, 2022 (7:00:00) GMT",
+        "color": "ff4040"
+      }
+    ],
+    "name": "SG 553 | Pulse",
+    "name_color": "D2D2D2",
+    "type": "Restricted Rifle",
+    "market_name": "SG 553 | Pulse (Minimal Wear)",
+    "market_hash_name": "SG 553 | Pulse (Minimal Wear)",
+    "market_actions": [
+      {
+        "link": "steam://rungame/730/76561202255233023/+csgo_econ_action_preview%20M%listingid%A%assetid%D616617133793889205",
+        "name": "Inspect in Game..."
+      }
+    ],
+    "commodity": 0,
+    "market_tradable_restriction": 7,
+    "marketable": 1,
+    "tags": [
+      {
+        "category": "Type",
+        "internal_name": "CSGO_Type_Rifle",
+        "localized_category_name": "Type",
+        "localized_tag_name": "Rifle"
+      },
+      {
+        "category": "Weapon",
+        "internal_name": "weapon_sg556",
+        "localized_category_name": "Weapon",
+        "localized_tag_name": "SG 553"
+      },
+      {
+        "category": "ItemSet",
+        "internal_name": "set_community_2",
+        "localized_category_name": "Collection",
+        "localized_tag_name": "The Phoenix Collection"
+      },
+      {
+        "category": "Quality",
+        "internal_name": "normal",
+        "localized_category_name": "Category",
+        "localized_tag_name": "Normal"
+      },
+      {
+        "category": "Rarity",
+        "internal_name": "Rarity_Mythical_Weapon",
+        "localized_category_name": "Quality",
+        "localized_tag_name": "Restricted",
+        "color": "8847ff"
+      },
+      {
+        "category": "Exterior",
+        "internal_name": "WearCategory1",
+        "localized_category_name": "Exterior",
+        "localized_tag_name": "Minimal Wear"
+      }
+    ],
+    "contextid": "2",
+    "id": "25144777067",
+    "amount": "1"
+  },
+  "25144168034": {
+    "appid": 730,
+    "classid": "4775720537",
+    "instanceid": "188530139",
+    "currency": 0,
+    "background_color": "",
+    "icon_url": "-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXH5ApeO4YmlhxYQknCRvCo04DEVlxkKgpot7HxfDhjxszJemkV09G3h5SOhe7LPr7Vn35cpsEl0-2Xrdii3APt-RI4ZG71IdOXelJoZVDX_li7kOu-1MW6uZ_JyHV9-n51hRUaMfs",
+    "icon_url_large": "-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXH5ApeO4YmlhxYQknCRvCo04DEVlxkKgpot7HxfDhjxszJemkV09G3h5SOhe7LPr7Vn35c18lwmO7Eu4ih0VDi80drZ276JtfBdQE4ZA3S8gXoxebogZ-57ZiYmCFlvyIi5HjD30vgrWhS6dA",
+    "descriptions": [
+      {
+        "type": "html",
+        "value": "Exterior: Well-Worn"
+      },
+      {
+        "type": "html",
+        "value": " "
+      },
+      {
+        "type": "html",
+        "value": "Powerful and reliable, the AK-47 is one of the most popular assault rifles in the world. It is most deadly in short, controlled bursts of fire. It has been custom painted using a combination of hydrographics and careful stenciling and detailed with heat-transfer decals.\n\n<i>Tread softly Naomi...people in your line of work aren't known for their longevity - The Shield and The Serpent Part 2</i>"
+      },
+      {
+        "type": "html",
+        "value": " "
+      },
+      {
+        "type": "html",
+        "value": "The Chroma 2 Collection",
+        "color": "9da1a9"
+      },
+      {
+        "type": "html",
+        "value": " "
+      },
+      {
+        "type": "html",
+        "value": "<br><div id=\"sticker_info\" name=\"sticker_info\" title=\"Sticker\" style=\"border: 2px solid rgb(102, 102, 102); border-radius: 6px; width=100; margin:4px; padding:8px;\"><center><img width=64 height=48 src=\"https://steamcdn-a.akamaihd.net/apps/730/icons/econ/stickers/rmr2020/fntc.eb723c420960e314d0c8465faab321288e476e9a.png\"><img width=64 height=48 src=\"https://steamcdn-a.akamaihd.net/apps/730/icons/econ/stickers/rmr2020/fntc.eb723c420960e314d0c8465faab321288e476e9a.png\"><img width=64 height=48 src=\"https://steamcdn-a.akamaihd.net/apps/730/icons/econ/stickers/rmr2020/fntc.eb723c420960e314d0c8465faab321288e476e9a.png\"><img width=64 height=48 src=\"https://steamcdn-a.akamaihd.net/apps/730/icons/econ/stickers/rmr2020/fntc.eb723c420960e314d0c8465faab321288e476e9a.png\"><br>Sticker: Fnatic | 2020 RMR, Fnatic | 2020 RMR, Fnatic | 2020 RMR, Fnatic | 2020 RMR</center></div>"
+      }
+    ],
+    "tradable": 0,
+    "actions": [
+      {
+        "link": "steam://rungame/730/76561202255233023/+csgo_econ_action_preview%20S%owner_steamid%A%assetid%D2775005608766793621",
+        "name": "Inspect in Game..."
+      }
+    ],
+    "owner_descriptions": [
+      {
+        "type": "html",
+        "value": " "
+      },
+      {
+        "type": "html",
+        "value": "Tradable After Mar 19, 2022 (7:00:00) GMT",
+        "color": "ff4040"
+      }
+    ],
+    "name": "AK-47 | Elite Build",
+    "name_color": "D2D2D2",
+    "type": "Mil-Spec Grade Rifle",
+    "market_name": "AK-47 | Elite Build (Well-Worn)",
+    "market_hash_name": "AK-47 | Elite Build (Well-Worn)",
+    "market_actions": [
+      {
+        "link": "steam://rungame/730/76561202255233023/+csgo_econ_action_preview%20M%listingid%A%assetid%D2775005608766793621",
+        "name": "Inspect in Game..."
+      }
+    ],
+    "commodity": 0,
+    "market_tradable_restriction": 7,
+    "marketable": 1,
+    "tags": [
+      {
+        "category": "Type",
+        "internal_name": "CSGO_Type_Rifle",
+        "localized_category_name": "Type",
+        "localized_tag_name": "Rifle"
+      },
+      {
+        "category": "Weapon",
+        "internal_name": "weapon_ak47",
+        "localized_category_name": "Weapon",
+        "localized_tag_name": "AK-47"
+      },
+      {
+        "category": "ItemSet",
+        "internal_name": "set_community_7",
+        "localized_category_name": "Collection",
+        "localized_tag_name": "The Chroma 2 Collection"
+      },
+      {
+        "category": "Quality",
+        "internal_name": "normal",
+        "localized_category_name": "Category",
+        "localized_tag_name": "Normal"
+      },
+      {
+        "category": "Rarity",
+        "internal_name": "Rarity_Rare_Weapon",
+        "localized_category_name": "Quality",
+        "localized_tag_name": "Mil-Spec Grade",
+        "color": "4b69ff"
+      },
+      {
+        "category": "Exterior",
+        "internal_name": "WearCategory3",
+        "localized_category_name": "Exterior",
+        "localized_tag_name": "Well-Worn"
+      },
+      {
+        "category": "Tournament",
+        "internal_name": "Tournament17",
+        "localized_category_name": "Tournament",
+        "localized_tag_name": "2020 RMR"
+      },
+      {
+        "category": "TournamentTeam",
+        "internal_name": "Team6",
+        "localized_category_name": "Team",
+        "localized_tag_name": "Fnatic"
+      }
+    ],
+    "contextid": "2",
+    "id": "25144168034",
+    "amount": "1"
+  },
+  "17873994778": {
+    "appid": 730,
+    "classid": "778383679",
+    "instanceid": "0",
+    "currency": 0,
+    "background_color": "",
+    "icon_url": "-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXQ9Q1LO5kNoBhSQl-fEv2o1t3QXFR6a1wE4uOkKlFm0qvJd2gSvYS3x9nbwfXyZrqBxDkCvZYmjurEpomlilL6ux07YtuiRwA",
+    "icon_url_large": "-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXQ9Q1LO5kNoBhSQl-fEv2o1t3QXFR6GghWpL2gZV9mi6CdIGpG7ti3wdONlKaka-uEkDsB6sMhj7rHoNXx2wSxrkZsYGrtZNjC6pZOE0g",
+    "descriptions": [
+      {
+        "type": "html",
+        "value": "Has been a member of the Counter-Strike community for over 5 years."
+      },
+      {
+        "type": "html",
+        "value": " "
+      },
+      {
+        "type": "html",
+        "value": ""
+      }
+    ],
+    "tradable": 0,
+    "actions": [
+      {
+        "link": "steam://rungame/730/76561202255233023/+csgo_econ_action_preview%20S%owner_steamid%A%assetid%D3038245680083122706",
+        "name": "Inspect in Game..."
+      }
+    ],
+    "name": "5 Year Veteran Coin",
+    "name_color": "D2D2D2",
+    "type": "Extraordinary Collectible",
+    "market_name": "5 Year Veteran Coin",
+    "market_hash_name": "5 Year Veteran Coin",
+    "market_actions": [
+      {
+        "link": "steam://rungame/730/76561202255233023/+csgo_econ_action_preview%20M%listingid%A%assetid%D3038245680083122706",
+        "name": "Inspect in Game..."
+      }
+    ],
+    "commodity": 0,
+    "market_tradable_restriction": 7,
+    "marketable": 0,
+    "tags": [
+      {
+        "category": "Type",
+        "internal_name": "CSGO_Type_Collectible",
+        "localized_category_name": "Type",
+        "localized_tag_name": "Collectible"
+      },
+      {
+        "category": "Quality",
+        "internal_name": "normal",
+        "localized_category_name": "Category",
+        "localized_tag_name": "Normal"
+      },
+      {
+        "category": "Rarity",
+        "internal_name": "Rarity_Ancient",
+        "localized_category_name": "Quality",
+        "localized_tag_name": "Extraordinary",
+        "color": "eb4b4b"
+      }
+    ],
+    "contextid": "2",
+    "id": "17873994778",
+    "amount": "1"
+  },
+  "15173267010": {
+    "appid": 730,
+    "classid": "3106076676",
+    "instanceid": "0",
+    "currency": 0,
+    "background_color": "",
+    "icon_url": "-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXQ9Q1LO5kNoBhSQl-fV_ak2srsUVxwIgEZ5rikLgYy0KeZdTtHuoW1xteNx6LxMejTlD0BsZ0l07vHoNnw0FKy_F0sPT4FlIcnBQ",
+    "icon_url_large": "-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXQ9Q1LO5kNoBhSQl-fV_ak2srsUVxwIgFouru3LAIu1auZJWlGvN3hzYONwq-iMOKBxmoDusMlibuTo9ik2FXkrUBsZG3zLZjVLFGvrKTXrg",
+    "descriptions": [
+      {
+        "type": "html",
+        "value": "This badge commemorates loyal membership in the Counter-Strike community prior to the Danger Zone update. <i>Strength through loyalty.</i>"
+      },
+      {
+        "type": "html",
+        "value": " "
+      },
+      {
+        "type": "html",
+        "value": ""
+      }
+    ],
+    "tradable": 0,
+    "actions": [
+      {
+        "link": "steam://rungame/730/76561202255233023/+csgo_econ_action_preview%20S%owner_steamid%A%assetid%D16627299441688984254",
+        "name": "Inspect in Game..."
+      }
+    ],
+    "name": "Loyalty Badge",
+    "name_color": "D2D2D2",
+    "type": "Extraordinary Collectible",
+    "market_name": "Loyalty Badge",
+    "market_hash_name": "Loyalty Badge",
+    "market_actions": [
+      {
+        "link": "steam://rungame/730/76561202255233023/+csgo_econ_action_preview%20M%listingid%A%assetid%D16627299441688984254",
+        "name": "Inspect in Game..."
+      }
+    ],
+    "commodity": 0,
+    "market_tradable_restriction": 7,
+    "marketable": 0,
+    "tags": [
+      {
+        "category": "Type",
+        "internal_name": "CSGO_Type_Collectible",
+        "localized_category_name": "Type",
+        "localized_tag_name": "Collectible"
+      },
+      {
+        "category": "Quality",
+        "internal_name": "normal",
+        "localized_category_name": "Category",
+        "localized_tag_name": "Normal"
+      },
+      {
+        "category": "Rarity",
+        "internal_name": "Rarity_Ancient",
+        "localized_category_name": "Quality",
+        "localized_tag_name": "Extraordinary",
+        "color": "eb4b4b"
+      }
+    ],
+    "contextid": "2",
+    "id": "15173267010",
+    "amount": "1"
+  },
+  "13328701860": {
+    "appid": 730,
+    "classid": "2664533628",
+    "instanceid": "2676076211",
+    "currency": 0,
+    "background_color": "",
+    "icon_url": "-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXQ9Q1LO5kNoBhSQl-fVOG_wcbQVmJ5IABWuoX3e1Y47P_efWwMtN_gwNTfxKamZ7nVxG9U65Qg0r6Z9I-j3g3s_EY5N22hINCUI1A2ZEaQpAbac7DGmA",
+    "icon_url_large": "-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXQ9Q1LO5kNoBhSQl-fVOG_wcbQVmJ5IABWuoX3e1Y47P_efWx94N2kk4XFlfX2Yb3Sk2gDv5cpj7CYpNui0VCx_EZpMD_zcNOXI1BqYVjQrlntk_Cv28GDOhuz7Q",
+    "descriptions": [
+      {
+        "type": "html",
+        "value": "Awarded for outstanding service and achievement in 2018."
+      },
+      {
+        "type": "html",
+        "value": " "
+      },
+      {
+        "type": "html",
+        "value": "Date of Issue: Jan 11, 2018 GMT",
+        "color": "99ccff"
+      },
+      {
+        "type": "html",
+        "value": " "
+      },
+      {
+        "type": "html",
+        "value": ""
+      }
+    ],
+    "tradable": 0,
+    "actions": [
+      {
+        "link": "steam://rungame/730/76561202255233023/+csgo_econ_action_preview%20S%owner_steamid%A%assetid%D11583969821631433713",
+        "name": "Inspect in Game..."
+      }
+    ],
+    "name": "2018 Service Medal",
+    "name_color": "D2D2D2",
+    "type": "Extraordinary Collectible",
+    "market_name": "2018 Service Medal",
+    "market_hash_name": "2018 Service Medal",
+    "market_actions": [
+      {
+        "link": "steam://rungame/730/76561202255233023/+csgo_econ_action_preview%20M%listingid%A%assetid%D11583969821631433713",
+        "name": "Inspect in Game..."
+      }
+    ],
+    "commodity": 0,
+    "market_tradable_restriction": 7,
+    "marketable": 0,
+    "tags": [
+      {
+        "category": "Type",
+        "internal_name": "CSGO_Type_Collectible",
+        "localized_category_name": "Type",
+        "localized_tag_name": "Collectible"
+      },
+      {
+        "category": "Quality",
+        "internal_name": "normal",
+        "localized_category_name": "Category",
+        "localized_tag_name": "Normal"
+      },
+      {
+        "category": "Rarity",
+        "internal_name": "Rarity_Ancient",
+        "localized_category_name": "Quality",
+        "localized_tag_name": "Extraordinary",
+        "color": "eb4b4b"
+      }
+    ],
+    "contextid": "2",
+    "id": "13328701860",
+    "amount": "1"
+  },
+  "10155579399": {
+    "appid": 730,
+    "classid": "2112356270",
+    "instanceid": "2281634051",
+    "currency": 0,
+    "background_color": "",
+    "icon_url": "-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXQ9Q1LO5kNoBhSQl-fVOG_wcbQVmJ5IABWuoX3e1Y37P_efWwM7d6zlYaOwKH1ZbqEwzwCvZ0hjOjCrI6s3gfk-EVlYmn0INScJgRsNUaQpAZgQhpoaQ",
+    "icon_url_large": "-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXQ9Q1LO5kNoBhSQl-fVOG_wcbQVmJ5IABWuoX3e1Y37P_efWx94N2kk4XFlq-hZOOGxmkHsMYoj7jA8dWtigfsqUs-ZGryJdLHcQE5aFrYrFPtx_Cv28G-x1WWVA",
+    "descriptions": [
+      {
+        "type": "html",
+        "value": "Awarded for outstanding service and achievement in 2017."
+      },
+      {
+        "type": "html",
+        "value": " "
+      },
+      {
+        "type": "html",
+        "value": "Date of Issue: May 09, 2017 GMT",
+        "color": "99ccff"
+      },
+      {
+        "type": "html",
+        "value": " "
+      },
+      {
+        "type": "html",
+        "value": ""
+      }
+    ],
+    "tradable": 0,
+    "actions": [
+      {
+        "link": "steam://rungame/730/76561202255233023/+csgo_econ_action_preview%20S%owner_steamid%A%assetid%D12306764669932556613",
+        "name": "Inspect in Game..."
+      }
+    ],
+    "name": "2017 Service Medal",
+    "name_color": "D2D2D2",
+    "type": "Extraordinary Collectible",
+    "market_name": "2017 Service Medal",
+    "market_hash_name": "2017 Service Medal",
+    "market_actions": [
+      {
+        "link": "steam://rungame/730/76561202255233023/+csgo_econ_action_preview%20M%listingid%A%assetid%D12306764669932556613",
+        "name": "Inspect in Game..."
+      }
+    ],
+    "commodity": 0,
+    "market_tradable_restriction": 7,
+    "marketable": 0,
+    "tags": [
+      {
+        "category": "Type",
+        "internal_name": "CSGO_Type_Collectible",
+        "localized_category_name": "Type",
+        "localized_tag_name": "Collectible"
+      },
+      {
+        "category": "Quality",
+        "internal_name": "normal",
+        "localized_category_name": "Category",
+        "localized_tag_name": "Normal"
+      },
+      {
+        "category": "Rarity",
+        "internal_name": "Rarity_Ancient",
+        "localized_category_name": "Quality",
+        "localized_tag_name": "Extraordinary",
+        "color": "eb4b4b"
+      }
+    ],
+    "contextid": "2",
+    "id": "10155579399",
+    "amount": "1"
+  },
+  "7697414881": {
+    "appid": 730,
+    "classid": "1989275934",
+    "instanceid": "0",
+    "currency": 0,
+    "background_color": "",
+    "icon_url": "IzMF03bi9WpSBq-S-ekoE33L-iLqGFHVaU25ZzQNQcXdB2ozio1RrlIWFK3UfvMYB8UsvjiMXojflsZalyxSh31CIyHz2GZ-KuFpPsrTzBG0qeeMGGfjZznBEDPQDBAxHrtXYD7Z-zL35u6REzucFO4pSg5VevcH82EcP5zdbUBu09YM-Gfq2VRzGVArfclJYgKuxmAaIbE8lXZKfM9XmrseLJcr",
+    "icon_url_large": "IzMF03bi9WpSBq-S-ekoE33L-iLqGFHVaU25ZzQNQcXdB2ozio1RrlIWFK3UfvMYB8UsvjiMXojflsZalyxSh31CIyHz2GZ-KuFpPsrTzBG0qeeMGGfjZznBEDPQDGFkHPEJYHbQ9jant-XBQGmcEusuQg8Ae_YF8TFOO5iNNxVoh9EL8jzokR0vS0B-PNVId0m4xXgcI7AwxDUbNccblCP4L8Dchvhi2Mg3",
+    "descriptions": [
+      {
+        "type": "html",
+        "value": "This graffiti can be applied to the in-game world. You can apply it until you run out of charges."
+      },
+      {
+        "type": "html",
+        "value": " "
+      },
+      {
+        "type": "html",
+        "value": "",
+        "color": "00a000"
+      },
+      {
+        "type": "html",
+        "value": " "
+      },
+      {
+        "type": "html",
+        "value": ""
+      }
+    ],
+    "tradable": 0,
+    "actions": [
+      {
+        "link": "steam://rungame/730/76561202255233023/+csgo_econ_action_preview%20S%owner_steamid%A%assetid%D5525011874865499943",
+        "name": "Inspect in Game..."
+      }
+    ],
+    "name": "Graffiti | Tombstone (Battle Green)",
+    "name_color": "D2D2D2",
+    "type": "Base Grade Graffiti",
+    "market_name": "Graffiti | Tombstone (Battle Green)",
+    "market_hash_name": "Graffiti | Tombstone (Battle Green)",
+    "market_actions": [
+      {
+        "link": "steam://rungame/730/76561202255233023/+csgo_econ_action_preview%20M%listingid%A%assetid%D5525011874865499943",
+        "name": "Inspect in Game..."
+      }
+    ],
+    "commodity": 1,
+    "market_tradable_restriction": 7,
+    "marketable": 0,
+    "tags": [
+      {
+        "category": "Type",
+        "internal_name": "CSGO_Type_Spray",
+        "localized_category_name": "Type",
+        "localized_tag_name": "Graffiti"
+      },
+      {
+        "category": "Quality",
+        "internal_name": "normal",
+        "localized_category_name": "Category",
+        "localized_tag_name": "Normal"
+      },
+      {
+        "category": "Rarity",
+        "internal_name": "Rarity_Common",
+        "localized_category_name": "Quality",
+        "localized_tag_name": "Base Grade",
+        "color": "b0c3d9"
+      },
+      {
+        "category": "SprayColorCategory",
+        "internal_name": "Tint7",
+        "localized_category_name": "Graffiti Color",
+        "localized_tag_name": "Battle Green"
+      }
+    ],
+    "contextid": "2",
+    "id": "7697414881",
+    "amount": "1"
+  },
+  "5649745915": {
+    "appid": 730,
+    "classid": "1465854320",
+    "instanceid": "1640800306",
+    "currency": 0,
+    "background_color": "",
+    "icon_url": "-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXQ9Q1LO5kNoBhSQl-fVOG_wcbQVmJ5IABWuoX3e1Y27P_efWwM74rhl4HblKX2MLqClz1XuZwijLCVpd6t3FW3-RFkNTz1LYGccQc_MkaQpAaz3mGjMg",
+    "icon_url_large": "-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXQ9Q1LO5kNoBhSQl-fVOG_wcbQVmJ5IABWuoX3e1Y27P_efWx94N2kk4XFxfP1Mb6IwzMF6ZQpi7GVpomtjQLgqkY-ZjimItOSelQ5aFqG-Fm8wvCv28EGLgDagg",
+    "descriptions": [
+      {
+        "type": "html",
+        "value": "Awarded for outstanding service and achievement in 2016."
+      },
+      {
+        "type": "html",
+        "value": " "
+      },
+      {
+        "type": "html",
+        "value": "Date of Issue: Apr 01, 2016 GMT",
+        "color": "99ccff"
+      },
+      {
+        "type": "html",
+        "value": " "
+      },
+      {
+        "type": "html",
+        "value": ""
+      }
+    ],
+    "tradable": 0,
+    "actions": [
+      {
+        "link": "steam://rungame/730/76561202255233023/+csgo_econ_action_preview%20S%owner_steamid%A%assetid%D5350312829678755347",
+        "name": "Inspect in Game..."
+      }
+    ],
+    "name": "2016 Service Medal",
+    "name_color": "D2D2D2",
+    "type": "Extraordinary Collectible",
+    "market_name": "2016 Service Medal",
+    "market_hash_name": "2016 Service Medal",
+    "market_actions": [
+      {
+        "link": "steam://rungame/730/76561202255233023/+csgo_econ_action_preview%20M%listingid%A%assetid%D5350312829678755347",
+        "name": "Inspect in Game..."
+      }
+    ],
+    "commodity": 0,
+    "market_tradable_restriction": 7,
+    "marketable": 0,
+    "tags": [
+      {
+        "category": "Type",
+        "internal_name": "CSGO_Type_Collectible",
+        "localized_category_name": "Type",
+        "localized_tag_name": "Collectible"
+      },
+      {
+        "category": "Quality",
+        "internal_name": "normal",
+        "localized_category_name": "Category",
+        "localized_tag_name": "Normal"
+      },
+      {
+        "category": "Rarity",
+        "internal_name": "Rarity_Ancient",
+        "localized_category_name": "Quality",
+        "localized_tag_name": "Extraordinary",
+        "color": "eb4b4b"
+      }
+    ],
+    "contextid": "2",
+    "id": "5649745915",
+    "amount": "1"
+  }
+}

@@ -1,0 +1,2404 @@
+{
+  "5624438689153975552": {
+    "listing_id": "5624438689153975552",
+    "buyer_pay": "14,44 p\u0443\u0431.",
+    "you_receive": "12,57 p\u0443\u0431.",
+    "created_on": "15 Mar",
+    "need_confirmation": false,
+    "description": {
+      "currency": 0,
+      "appid": 730,
+      "contextid": "2",
+      "id": "25178311061",
+      "classid": "4780664150",
+      "instanceid": "188530139",
+      "amount": "1",
+      "status": 2,
+      "original_amount": "1",
+      "unowned_id": "25178311061",
+      "unowned_contextid": "2",
+      "background_color": "",
+      "icon_url": "-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXH5ApeO4YmlhxYQknCRvCo04DEVlxkKgposLOzLhRlxfbGTi5S09G5ho-0g_LsJ7Ldk1RB_ddhhuz-7In5hFujlB45NzC2eZiWIwNqaQyD-Fa2wb3rgZ607ZzOzyNjv3Vz7X6JmxbkgEkZPOA91KOcVxzAUPR0X8wm",
+      "icon_url_large": "-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXH5ApeO4YmlhxYQknCRvCo04DEVlxkKgposLOzLhRlxfbGTi5S09G5ho-0g_LsJ7Ldk1RB_ddhhuz-7In5hFujlB45NzC2eenJI0RpNEbTq1Tqybq8h5G0vM7NzXpr6yEl4y7dmkDmiRkYauY8hKTLG1nMVvNLAuDcUVdcHTc7",
+      "descriptions": [
+        {
+          "type": "html",
+          "value": "Exterior: Well-Worn"
+        },
+        {
+          "type": "html",
+          "value": " "
+        },
+        {
+          "type": "html",
+          "value": "This item commemorates the 2021 PGL Stockholm CS:GO Championship.",
+          "color": "ffd700"
+        },
+        {
+          "type": "html",
+          "value": " "
+        },
+        {
+          "type": "html",
+          "value": "It was dropped during the Group Stage match between Evil Geniuses and FaZe Clan.",
+          "color": "ffd700"
+        },
+        {
+          "type": "html",
+          "value": " "
+        },
+        {
+          "type": "html",
+          "value": "Highly accurate and armor-piercing, the pricy Five-Seven is a slow-loader that compensates with a generous 20-round magazine and forgiving recoil. It has been spray-painted with a flower pattern in purple and gold.\n\n<i>Some see a nuisance; I see beauty</i>"
+        },
+        {
+          "type": "html",
+          "value": " "
+        },
+        {
+          "type": "html",
+          "value": "The 2021 Dust 2 Collection",
+          "color": "9da1a9"
+        },
+        {
+          "type": "html",
+          "value": " "
+        },
+        {
+          "type": "html",
+          "value": "<br><div id=\"sticker_info\" name=\"sticker_info\" title=\"Sticker\" style=\"border: 2px solid rgb(102, 102, 102); border-radius: 6px; width=100; margin:4px; padding:8px;\"><center><img width=64 height=48 src=\"https://steamcdn-a.akamaihd.net/apps/730/icons/econ/stickers/tournament_assets/de_dust2_gold.d203a911e55d6429d53ba5652e8088d7c9a5b151.png\"><img width=64 height=48 src=\"https://steamcdn-a.akamaihd.net/apps/730/icons/econ/stickers/stockh2021/faze_gold.9fe88e96e1104d5aa370e081a36673727a07781d.png\"><img width=64 height=48 src=\"https://steamcdn-a.akamaihd.net/apps/730/icons/econ/stickers/stockh2021/evl_gold.6d83e80a23c5c1ae7194e7367c54fa60f00b702a.png\"><img width=64 height=48 src=\"https://steamcdn-a.akamaihd.net/apps/730/icons/econ/stickers/stockh2021/pgl_gold.e78a028f9fe095047c344e3e0718ec8ecf75137b.png\"><br>Sticker: Dust II (Gold), FaZe Clan (Gold) | Stockholm 2021, Evil Geniuses (Gold) | Stockholm 2021, PGL (Gold) | Stockholm 2021</center></div>"
+        }
+      ],
+      "tradable": 0,
+      "actions": [
+        {
+          "link": "steam://rungame/730/76561202255233023/+csgo_econ_action_preview%20M5624438689153975552A%assetid%D3354130626967531193",
+          "name": "Inspect in Game..."
+        }
+      ],
+      "owner_descriptions": [
+        {
+          "type": "html",
+          "value": " "
+        },
+        {
+          "type": "html",
+          "value": "Tradable After Mar 23, 2022 (7:00:00) GMT",
+          "color": "ff4040"
+        }
+      ],
+      "name": "Souvenir Five-SeveN | Withered Vine",
+      "name_color": "FFD700",
+      "type": "Souvenir Industrial Grade Pistol",
+      "market_name": "Souvenir Five-SeveN | Withered Vine (Well-Worn)",
+      "market_hash_name": "Souvenir Five-SeveN | Withered Vine (Well-Worn)",
+      "market_actions": [
+        {
+          "link": "steam://rungame/730/76561202255233023/+csgo_econ_action_preview%20M5624438689153975552A%assetid%D3354130626967531193",
+          "name": "Inspect in Game..."
+        }
+      ],
+      "commodity": 0,
+      "market_tradable_restriction": 7,
+      "marketable": 1,
+      "app_icon": "https://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/730/69f7ebe2735c366c65c0b33dae00e12dc40edbe4.jpg",
+      "owner": 0
+    }
+  },
+  "5624438689153975652": {
+    "listing_id": "5624438689153975652",
+    "buyer_pay": "14,44 p\u0443\u0431.",
+    "you_receive": "12,57 p\u0443\u0431.",
+    "created_on": "15 Mar",
+    "need_confirmation": false,
+    "description": {
+      "currency": 0,
+      "appid": 730,
+      "contextid": "2",
+      "id": "25178310593",
+      "classid": "4780117846",
+      "instanceid": "519977179",
+      "amount": "1",
+      "status": 2,
+      "original_amount": "1",
+      "unowned_id": "25178310593",
+      "unowned_contextid": "2",
+      "background_color": "",
+      "icon_url": "-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXH5ApeO4YmlhxYQknCRvCo04DEVlxkKgporrf0e1Y07ODYTilL_tmJgJKOlvPLMbfEk1Rc7cF4n-SPpI6h0FCy-0pvNjvwddfEdlA3YQuEr1TvwOq60Ze4vZzInyQ3syZw4mGdwUL2Ff-YTQ",
+      "icon_url_large": "-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXH5ApeO4YmlhxYQknCRvCo04DEVlxkKgporrf0e1Y07ODYTilL_tmJgJKOlvPLMbfEk1Rc7cF4n-T--Y3nj1H6-hFoaz2lJI-WJ1Q9MAmB_ge3wb270JPtvZmcnXNnuyEjsymJlhPlhgYMMLJXsSbiug",
+      "descriptions": [
+        {
+          "type": "html",
+          "value": "Exterior: Field-Tested"
+        },
+        {
+          "type": "html",
+          "value": " "
+        },
+        {
+          "type": "html",
+          "value": "The XM1014 is a powerful fully automatic shotgun that justifies its heftier price tag with the ability to paint a room with lead fast. It has been spray-painted with a black and blue tire tread pattern.\n\n<i>Burn rubber</i>"
+        },
+        {
+          "type": "html",
+          "value": " "
+        },
+        {
+          "type": "html",
+          "value": "The 2021 Vertigo Collection",
+          "color": "9da1a9"
+        },
+        {
+          "type": "html",
+          "value": " "
+        }
+      ],
+      "tradable": 0,
+      "actions": [
+        {
+          "link": "steam://rungame/730/76561202255233023/+csgo_econ_action_preview%20M5624438689153975652A%assetid%D16203991230678531119",
+          "name": "Inspect in Game..."
+        }
+      ],
+      "owner_descriptions": [
+        {
+          "type": "html",
+          "value": " "
+        },
+        {
+          "type": "html",
+          "value": "Tradable After Mar 23, 2022 (7:00:00) GMT",
+          "color": "ff4040"
+        }
+      ],
+      "name": "XM1014 | Blue Tire",
+      "name_color": "D2D2D2",
+      "type": "Consumer Grade Shotgun",
+      "market_name": "XM1014 | Blue Tire (Field-Tested)",
+      "market_hash_name": "XM1014 | Blue Tire (Field-Tested)",
+      "market_actions": [
+        {
+          "link": "steam://rungame/730/76561202255233023/+csgo_econ_action_preview%20M5624438689153975652A%assetid%D16203991230678531119",
+          "name": "Inspect in Game..."
+        }
+      ],
+      "commodity": 0,
+      "market_tradable_restriction": 7,
+      "marketable": 1,
+      "app_icon": "https://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/730/69f7ebe2735c366c65c0b33dae00e12dc40edbe4.jpg",
+      "owner": 0
+    }
+  },
+  "5624438689153996192": {
+    "listing_id": "5624438689153996192",
+    "buyer_pay": "14,44 p\u0443\u0431.",
+    "you_receive": "12,57 p\u0443\u0431.",
+    "created_on": "15 Mar",
+    "need_confirmation": false,
+    "description": {
+      "currency": 0,
+      "appid": 730,
+      "contextid": "2",
+      "id": "25178310286",
+      "classid": "4780111734",
+      "instanceid": "188530139",
+      "amount": "1",
+      "status": 2,
+      "original_amount": "1",
+      "unowned_id": "25178310286",
+      "unowned_contextid": "2",
+      "background_color": "",
+      "icon_url": "-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXH5ApeO4YmlhxYQknCRvCo04DEVlxkKgpotaDyfgZf1OD3cicVueOgkY6PkuPgMoTck29Y_cg_jr-Vo9Wn2gbmr0pkNjymJoOWJlNsaVnUqVi5l-zthpG9vMyam3JjuT5iuyhc19mUhQ",
+      "icon_url_large": "-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXH5ApeO4YmlhxYQknCRvCo04DEVlxkKgpotaDyfgZf1OD3cicVueOgkY6PkuPgMoTck29Y_chOhujT8om7jALg_UpuYWvxcI-dJ1NrY13TrgTsye_r1p-76p_LynViunFxt3_dnAv330881h8bbQ",
+      "descriptions": [
+        {
+          "type": "html",
+          "value": "Exterior: Well-Worn"
+        },
+        {
+          "type": "html",
+          "value": " "
+        },
+        {
+          "type": "html",
+          "value": "A fully automatic variant of the CZ75, the CZ75-Auto is the ideal short-term choice for turning the tables and gaining your opponents weapon. But with very little ammo in the magazine, strong trigger discipline is required. Through the years it has been etched into, drawn on, and hardened with use.\n\n<i>From my cold, dead hands</i>"
+        },
+        {
+          "type": "html",
+          "value": " "
+        },
+        {
+          "type": "html",
+          "value": "The Operation Broken Fang Collection",
+          "color": "9da1a9"
+        },
+        {
+          "type": "html",
+          "value": " "
+        }
+      ],
+      "tradable": 0,
+      "actions": [
+        {
+          "link": "steam://rungame/730/76561202255233023/+csgo_econ_action_preview%20M5624438689153996192A%assetid%D16457365267876017585",
+          "name": "Inspect in Game..."
+        }
+      ],
+      "owner_descriptions": [
+        {
+          "type": "html",
+          "value": " "
+        },
+        {
+          "type": "html",
+          "value": "Tradable After Mar 23, 2022 (7:00:00) GMT",
+          "color": "ff4040"
+        }
+      ],
+      "name": "CZ75-Auto | Vendetta",
+      "name_color": "D2D2D2",
+      "type": "Mil-Spec Grade Pistol",
+      "market_name": "CZ75-Auto | Vendetta (Well-Worn)",
+      "market_hash_name": "CZ75-Auto | Vendetta (Well-Worn)",
+      "market_actions": [
+        {
+          "link": "steam://rungame/730/76561202255233023/+csgo_econ_action_preview%20M5624438689153996192A%assetid%D16457365267876017585",
+          "name": "Inspect in Game..."
+        }
+      ],
+      "commodity": 0,
+      "market_tradable_restriction": 7,
+      "marketable": 1,
+      "app_icon": "https://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/730/69f7ebe2735c366c65c0b33dae00e12dc40edbe4.jpg",
+      "owner": 0
+    }
+  },
+  "5624438689153996292": {
+    "listing_id": "5624438689153996292",
+    "buyer_pay": "14,44 p\u0443\u0431.",
+    "you_receive": "12,57 p\u0443\u0431.",
+    "created_on": "15 Mar",
+    "need_confirmation": false,
+    "description": {
+      "currency": 0,
+      "appid": 730,
+      "contextid": "2",
+      "id": "25178310015",
+      "classid": "4780101868",
+      "instanceid": "188530139",
+      "amount": "1",
+      "status": 2,
+      "original_amount": "1",
+      "unowned_id": "25178310015",
+      "unowned_contextid": "2",
+      "background_color": "",
+      "icon_url": "-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXQ9QVcJY8gulRPQV6CF7b9mMHcQWJ8KghY-L-nfAFjgqvKdWtGu9_vwNTYz_OmMr2Bl2kHuJIn3r-VrY7w3gzh8xZyIzekuq2r0JI",
+      "icon_url_large": "-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXQ9QVcJY8gulRPQV6CF7b9mMHcQWJ8KghYibakOQBlnfHMJmwb7oTvwoHYlPSsar2DxG1VuZUl2ejAodik3gKx_UZvNmugdYCLMlhpuhbHWqE",
+      "descriptions": [
+        {
+          "type": "html",
+          "value": "This item commemorates the 2020 CS:GO Regional Major Rankings.",
+          "color": "ffd700"
+        },
+        {
+          "type": "html",
+          "value": " "
+        },
+        {
+          "type": "html",
+          "value": "This sticker can be applied to any weapon you own and can be scraped to look more worn. You can scrape the same sticker multiple times, making it a bit more worn each time, until it is removed from the weapon."
+        },
+        {
+          "type": "html",
+          "value": " "
+        },
+        {
+          "type": "html",
+          "value": "",
+          "color": "00a000"
+        }
+      ],
+      "tradable": 0,
+      "actions": [
+        {
+          "link": "steam://rungame/730/76561202255233023/+csgo_econ_action_preview%20M5624438689153996292A%assetid%D5522225717967156751",
+          "name": "Inspect in Game..."
+        }
+      ],
+      "owner_descriptions": [
+        {
+          "type": "html",
+          "value": " "
+        },
+        {
+          "type": "html",
+          "value": "Tradable After Mar 23, 2022 (7:00:00) GMT",
+          "color": "ff4040"
+        }
+      ],
+      "name": "Sticker | North (Holo) | 2020 RMR",
+      "name_color": "D2D2D2",
+      "type": "Remarkable Sticker",
+      "market_name": "Sticker | North (Holo) | 2020 RMR",
+      "market_hash_name": "Sticker | North (Holo) | 2020 RMR",
+      "market_actions": [
+        {
+          "link": "steam://rungame/730/76561202255233023/+csgo_econ_action_preview%20M5624438689153996292A%assetid%D5522225717967156751",
+          "name": "Inspect in Game..."
+        }
+      ],
+      "commodity": 1,
+      "market_tradable_restriction": 7,
+      "marketable": 1,
+      "app_icon": "https://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/730/69f7ebe2735c366c65c0b33dae00e12dc40edbe4.jpg",
+      "owner": 0
+    }
+  },
+  "5624438689153996492": {
+    "listing_id": "5624438689153996492",
+    "buyer_pay": "16,69 p\u0443\u0431.",
+    "you_receive": "14,52 p\u0443\u0431.",
+    "created_on": "15 Mar",
+    "need_confirmation": false,
+    "description": {
+      "currency": 0,
+      "appid": 730,
+      "contextid": "2",
+      "id": "25178309358",
+      "classid": "4780115200",
+      "instanceid": "188530170",
+      "amount": "1",
+      "status": 2,
+      "original_amount": "1",
+      "unowned_id": "25178309358",
+      "unowned_contextid": "2",
+      "background_color": "",
+      "icon_url": "-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXH5ApeO4YmlhxYQknCRvCo04DEVlxkKgpopb3wflFf1OD3YjoXuY-JhpWYg-7LPr7Vn35cpsF13rCV8N2i2wa2-UtuMGigJdPAdlU_ZFGD_1e-k-znh5K87pnLzyZ9-n5122JB4kk",
+      "icon_url_large": "-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXH5ApeO4YmlhxYQknCRvCo04DEVlxkKgpopb3wflFf1OD3YjoXuY-JhpWYg-7LPr7Vn35c18lwmO7Eu4jx3A3grkJrYGuhJo6XIQdtYA2F_gK_xOe8gJC87p_By3Zj6CQg4yvD30vgbZRtbEI",
+      "descriptions": [
+        {
+          "type": "html",
+          "value": "Exterior: Field-Tested"
+        },
+        {
+          "type": "html",
+          "value": " "
+        },
+        {
+          "type": "html",
+          "value": "This item features StatTrak\u2122 technology, which tracks certain statistics when equipped by its owner.",
+          "color": "99ccff"
+        },
+        {
+          "type": "html",
+          "value": " "
+        },
+        {
+          "type": "html",
+          "value": "This item tracks Confirmed Kills.",
+          "color": "CF6A32"
+        },
+        {
+          "type": "html",
+          "value": " "
+        },
+        {
+          "type": "html",
+          "value": "The terrorist-exclusive SG553 is a premium scoped alternative to the AK47 for effective long-range engagement. Originally polished steel, moisture has changed this weapon's appearance. \"Ol' Rusty\" has been stamped above the trigger casing.\n\n<i>A rusty, trusty friend</i>"
+        },
+        {
+          "type": "html",
+          "value": " "
+        },
+        {
+          "type": "html",
+          "value": "The Fracture Collection",
+          "color": "9da1a9"
+        },
+        {
+          "type": "html",
+          "value": " "
+        }
+      ],
+      "tradable": 0,
+      "actions": [
+        {
+          "link": "steam://rungame/730/76561202255233023/+csgo_econ_action_preview%20M5624438689153996492A%assetid%D210240642710261529",
+          "name": "Inspect in Game..."
+        }
+      ],
+      "owner_descriptions": [
+        {
+          "type": "html",
+          "value": " "
+        },
+        {
+          "type": "html",
+          "value": "Tradable After Mar 23, 2022 (7:00:00) GMT",
+          "color": "ff4040"
+        }
+      ],
+      "name": "StatTrak\u2122 SG 553 | Ol' Rusty",
+      "name_color": "CF6A32",
+      "type": "StatTrak\u2122 Mil-Spec Grade Rifle",
+      "market_name": "StatTrak\u2122 SG 553 | Ol' Rusty (Field-Tested)",
+      "market_hash_name": "StatTrak\u2122 SG 553 | Ol' Rusty (Field-Tested)",
+      "market_actions": [
+        {
+          "link": "steam://rungame/730/76561202255233023/+csgo_econ_action_preview%20M5624438689153996492A%assetid%D210240642710261529",
+          "name": "Inspect in Game..."
+        }
+      ],
+      "commodity": 0,
+      "market_tradable_restriction": 7,
+      "marketable": 1,
+      "app_icon": "https://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/730/69f7ebe2735c366c65c0b33dae00e12dc40edbe4.jpg",
+      "owner": 0
+    }
+  },
+  "5624438689154767432": {
+    "listing_id": "5624438689154767432",
+    "buyer_pay": "16,69 p\u0443\u0431.",
+    "you_receive": "14,52 p\u0443\u0431.",
+    "created_on": "15 Mar",
+    "need_confirmation": false,
+    "description": {
+      "currency": 0,
+      "appid": 730,
+      "contextid": "2",
+      "id": "25179100829",
+      "classid": "4780111715",
+      "instanceid": "188530139",
+      "amount": "1",
+      "status": 2,
+      "original_amount": "1",
+      "unowned_id": "25179100829",
+      "unowned_contextid": "2",
+      "background_color": "",
+      "icon_url": "-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXH5ApeO4YmlhxYQknCRvCo04DEVlxkKgpopbmkOVUw7PTbTi5B7c7kxL-bkvb3NrbQnW5DuJZOguzA45W72VXm_EtsazzzJ4LHew9oYVvZ-1Lqxe7mgcXtv5zOmnsx6XEktymIyQv3309GIEFkOw",
+      "icon_url_large": "-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXH5ApeO4YmlhxYQknCRvCo04DEVlxkKgpopbmkOVUw7PTbTi5B7c7kxL-bkvb3NrbQnW5DuJZOguzA45XKhFWmrBZyYjjxI46VelM-YlyC81jowe3mhJXouJ3AzSEyuSEltnaPzESx004ZOPsv26K6qbefMg",
+      "descriptions": [
+        {
+          "type": "html",
+          "value": "Exterior: Battle-Scarred"
+        },
+        {
+          "type": "html",
+          "value": " "
+        },
+        {
+          "type": "html",
+          "value": "The SCAR-20 is a semi-automatic sniper rifle that trades a high rate of fire and powerful long-distance damage for sluggish movement speed and big price tag. It has been given a camouflage pattern with metallic paint.\n\n<i>Listen up people... Izaki and Cocinero may be AWOL, but our mission remains the same: we're saving Alex Kincaide - Felix Riley, Commanding Officer</i>"
+        },
+        {
+          "type": "html",
+          "value": " "
+        },
+        {
+          "type": "html",
+          "value": "The Shadow Collection",
+          "color": "9da1a9"
+        },
+        {
+          "type": "html",
+          "value": " "
+        }
+      ],
+      "tradable": 0,
+      "actions": [
+        {
+          "link": "steam://rungame/730/76561202255233023/+csgo_econ_action_preview%20M5624438689154767432A%assetid%D13856039951459298774",
+          "name": "Inspect in Game..."
+        }
+      ],
+      "owner_descriptions": [
+        {
+          "type": "html",
+          "value": " "
+        },
+        {
+          "type": "html",
+          "value": "Tradable After Mar 23, 2022 (7:00:00) GMT",
+          "color": "ff4040"
+        }
+      ],
+      "name": "SCAR-20 | Green Marine",
+      "name_color": "D2D2D2",
+      "type": "Mil-Spec Grade Sniper Rifle",
+      "market_name": "SCAR-20 | Green Marine (Battle-Scarred)",
+      "market_hash_name": "SCAR-20 | Green Marine (Battle-Scarred)",
+      "market_actions": [
+        {
+          "link": "steam://rungame/730/76561202255233023/+csgo_econ_action_preview%20M5624438689154767432A%assetid%D13856039951459298774",
+          "name": "Inspect in Game..."
+        }
+      ],
+      "commodity": 0,
+      "market_tradable_restriction": 7,
+      "marketable": 1,
+      "app_icon": "https://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/730/69f7ebe2735c366c65c0b33dae00e12dc40edbe4.jpg",
+      "owner": 0
+    }
+  },
+  "5624438689154774432": {
+    "listing_id": "5624438689154774432",
+    "buyer_pay": "15,56 p\u0443\u0431.",
+    "you_receive": "13,54 p\u0443\u0431.",
+    "created_on": "15 Mar",
+    "need_confirmation": false,
+    "description": {
+      "currency": 0,
+      "appid": 730,
+      "contextid": "2",
+      "id": "25178995735",
+      "classid": "4780111697",
+      "instanceid": "188530170",
+      "amount": "1",
+      "status": 2,
+      "original_amount": "1",
+      "unowned_id": "25178995735",
+      "unowned_contextid": "2",
+      "background_color": "",
+      "icon_url": "-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXH5ApeO4YmlhxYQknCRvCo04DEVlxkKgporrf0e1Y07PDdTiVPvYznwL-Ej_7wNoTTmmpL7fp8j-3I4IG72lC180M9N2n1cI-WcwM-ZFzZ-wC4xubuh8O0uJzNyXcyuXNwsy7fmAv3308fMijcAw",
+      "icon_url_large": "-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXH5ApeO4YmlhxYQknCRvCo04DEVlxkKgporrf0e1Y07PDdTiVPvYznwL-Ej_7wNoTTmmpL7fp8j-3I4IHKhFWmrBZyYT2iLIbEJgY4NVHT-1S-xOrmhMe6u5XIyydrviEm5XqMnEbl10lOafsv26JNvUxIlQ",
+      "descriptions": [
+        {
+          "type": "html",
+          "value": "Exterior: Field-Tested"
+        },
+        {
+          "type": "html",
+          "value": " "
+        },
+        {
+          "type": "html",
+          "value": "This item features StatTrak\u2122 technology, which tracks certain statistics when equipped by its owner.",
+          "color": "99ccff"
+        },
+        {
+          "type": "html",
+          "value": " "
+        },
+        {
+          "type": "html",
+          "value": "This item tracks Confirmed Kills.",
+          "color": "CF6A32"
+        },
+        {
+          "type": "html",
+          "value": " "
+        },
+        {
+          "type": "html",
+          "value": "The XM1014 is a powerful fully automatic shotgun that justifies its heftier price tag with the ability to paint a room with lead fast. A custom paint job has been applied with a rust-colored base and white detailing.\n\n<i>Not to be used as a load-bearing support</i>"
+        },
+        {
+          "type": "html",
+          "value": " "
+        },
+        {
+          "type": "html",
+          "value": "The Clutch Collection",
+          "color": "9da1a9"
+        },
+        {
+          "type": "html",
+          "value": " "
+        }
+      ],
+      "tradable": 0,
+      "actions": [
+        {
+          "link": "steam://rungame/730/76561202255233023/+csgo_econ_action_preview%20M5624438689154774432A%assetid%D14304213354331086347",
+          "name": "Inspect in Game..."
+        }
+      ],
+      "owner_descriptions": [
+        {
+          "type": "html",
+          "value": " "
+        },
+        {
+          "type": "html",
+          "value": "Tradable After Mar 23, 2022 (7:00:00) GMT",
+          "color": "ff4040"
+        }
+      ],
+      "name": "StatTrak\u2122 XM1014 | Oxide Blaze",
+      "name_color": "CF6A32",
+      "type": "StatTrak\u2122 Mil-Spec Grade Shotgun",
+      "market_name": "StatTrak\u2122 XM1014 | Oxide Blaze (Field-Tested)",
+      "market_hash_name": "StatTrak\u2122 XM1014 | Oxide Blaze (Field-Tested)",
+      "market_actions": [
+        {
+          "link": "steam://rungame/730/76561202255233023/+csgo_econ_action_preview%20M5624438689154774432A%assetid%D14304213354331086347",
+          "name": "Inspect in Game..."
+        }
+      ],
+      "commodity": 0,
+      "market_tradable_restriction": 7,
+      "marketable": 1,
+      "app_icon": "https://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/730/69f7ebe2735c366c65c0b33dae00e12dc40edbe4.jpg",
+      "owner": 0
+    }
+  },
+  "3558412893859389372": {
+    "listing_id": "3558412893859389372",
+    "buyer_pay": "15,56 p\u0443\u0431.",
+    "you_receive": "13,54 p\u0443\u0431.",
+    "created_on": "16 Mar",
+    "need_confirmation": false,
+    "description": {
+      "currency": 0,
+      "appid": 730,
+      "contextid": "2",
+      "id": "25181260164",
+      "classid": "4780107679",
+      "instanceid": "188530170",
+      "amount": "1",
+      "status": 2,
+      "original_amount": "1",
+      "unowned_id": "25181260164",
+      "unowned_contextid": "2",
+      "background_color": "",
+      "icon_url": "-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXH5ApeO4YmlhxYQknCRvCo04DEVlxkKgpovrG1eVcwg8zJYAJSvozmxL-HmOTgDKzehGdV18h0juDU-ML32gO2_0U4MTj0LdeQcgJtNF_YqFe5x73pg8e47piYnSYxuyhx4X7agVXp1guWx7CF",
+      "icon_url_large": "-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXH5ApeO4YmlhxYQknCRvCo04DEVlxkKgpovrG1eVcwg8zJYAJSvozmxL-HmOTgDKzehGdV18h0juDU-LP5iUazrl0-YW6hIIDBIFc5aAnV-lXtlOnn15C7us7PzyNn6CVzsSuPnh3khRlLcKUx0s2pM2TD",
+      "descriptions": [
+        {
+          "type": "html",
+          "value": "Exterior: Well-Worn"
+        },
+        {
+          "type": "html",
+          "value": " "
+        },
+        {
+          "type": "html",
+          "value": "This item features StatTrak\u2122 technology, which tracks certain statistics when equipped by its owner.",
+          "color": "99ccff"
+        },
+        {
+          "type": "html",
+          "value": " "
+        },
+        {
+          "type": "html",
+          "value": "This item tracks Confirmed Kills.",
+          "color": "CF6A32"
+        },
+        {
+          "type": "html",
+          "value": " "
+        },
+        {
+          "type": "html",
+          "value": "Accurate and controllable, the German-made P2000 is a serviceable first-round pistol that works best against unarmored opponents. A twisted, alien being stretches from the grip down the slide of this hand painted P2000.\n\n<i>From the dark corners of the infinite void</i>"
+        },
+        {
+          "type": "html",
+          "value": " "
+        },
+        {
+          "type": "html",
+          "value": "The Fracture Collection",
+          "color": "9da1a9"
+        },
+        {
+          "type": "html",
+          "value": " "
+        }
+      ],
+      "tradable": 0,
+      "actions": [
+        {
+          "link": "steam://rungame/730/76561202255233023/+csgo_econ_action_preview%20M3558412893859389372A%assetid%D14591918292376257706",
+          "name": "Inspect in Game..."
+        }
+      ],
+      "owner_descriptions": [
+        {
+          "type": "html",
+          "value": " "
+        },
+        {
+          "type": "html",
+          "value": "Tradable After Mar 23, 2022 (7:00:00) GMT",
+          "color": "ff4040"
+        }
+      ],
+      "name": "StatTrak\u2122 P2000 | Gnarled",
+      "name_color": "CF6A32",
+      "type": "StatTrak\u2122 Mil-Spec Grade Pistol",
+      "market_name": "StatTrak\u2122 P2000 | Gnarled (Well-Worn)",
+      "market_hash_name": "StatTrak\u2122 P2000 | Gnarled (Well-Worn)",
+      "market_actions": [
+        {
+          "link": "steam://rungame/730/76561202255233023/+csgo_econ_action_preview%20M3558412893859389372A%assetid%D14591918292376257706",
+          "name": "Inspect in Game..."
+        }
+      ],
+      "commodity": 0,
+      "market_tradable_restriction": 7,
+      "marketable": 1,
+      "app_icon": "https://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/730/69f7ebe2735c366c65c0b33dae00e12dc40edbe4.jpg",
+      "owner": 0
+    }
+  },
+  "3558412893859389952": {
+    "listing_id": "3558412893859389952",
+    "buyer_pay": "38,03 p\u0443\u0431.",
+    "you_receive": "33,08 p\u0443\u0431.",
+    "created_on": "16 Mar",
+    "need_confirmation": false,
+    "description": {
+      "currency": 0,
+      "appid": 730,
+      "contextid": "2",
+      "id": "25180973153",
+      "classid": "4780163876",
+      "instanceid": "188530139",
+      "amount": "1",
+      "status": 2,
+      "original_amount": "1",
+      "unowned_id": "25180973153",
+      "unowned_contextid": "2",
+      "background_color": "",
+      "icon_url": "-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXQ9QVcJY8gulRUQEDFSu2j1tvWbF51NRdCur-ae1Yv3fzHdTFH_5LmkdDZk6GkYb_Uzz8GvpEli77C9Iqs3wHh-0U6YjqiLYGSe1A5ZQmB5BHglolpKByD",
+      "icon_url_large": "-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXQ9QVcJY8gulRUQEDFSu2j1tvWbF51NRdCur-ae1Yv3fzHdTFH_-O6lZKMkrmjYLiClG4IuJByiL6T8NXwjg21qUNrNW2gJ9OdclVrY1_V8gK2yLztm9bi61ibpnQW",
+      "descriptions": [
+        {
+          "type": "html",
+          "value": "This sticker can be applied to any weapon you own and can be scraped to look more worn. You can scrape the same sticker multiple times, making it a bit more worn each time, until it is removed from the weapon."
+        },
+        {
+          "type": "html",
+          "value": " "
+        },
+        {
+          "type": "html",
+          "value": "",
+          "color": "00a000"
+        }
+      ],
+      "tradable": 0,
+      "actions": [
+        {
+          "link": "steam://rungame/730/76561202255233023/+csgo_econ_action_preview%20M3558412893859389952A%assetid%D12269508667264292973",
+          "name": "Inspect in Game..."
+        }
+      ],
+      "owner_descriptions": [
+        {
+          "type": "html",
+          "value": " "
+        },
+        {
+          "type": "html",
+          "value": "Tradable After Mar 23, 2022 (7:00:00) GMT",
+          "color": "ff4040"
+        }
+      ],
+      "name": "Sticker | Noodles",
+      "name_color": "D2D2D2",
+      "type": "High Grade Sticker",
+      "market_name": "Sticker | Noodles",
+      "market_hash_name": "Sticker | Noodles",
+      "market_actions": [
+        {
+          "link": "steam://rungame/730/76561202255233023/+csgo_econ_action_preview%20M3558412893859389952A%assetid%D12269508667264292973",
+          "name": "Inspect in Game..."
+        }
+      ],
+      "commodity": 1,
+      "market_tradable_restriction": 7,
+      "marketable": 1,
+      "app_icon": "https://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/730/69f7ebe2735c366c65c0b33dae00e12dc40edbe4.jpg",
+      "owner": 0
+    }
+  },
+  "3558412893859390792": {
+    "listing_id": "3558412893859390792",
+    "buyer_pay": "14,44 p\u0443\u0431.",
+    "you_receive": "12,57 p\u0443\u0431.",
+    "created_on": "16 Mar",
+    "need_confirmation": false,
+    "description": {
+      "currency": 0,
+      "appid": 730,
+      "contextid": "2",
+      "id": "25180851297",
+      "classid": "4780135527",
+      "instanceid": "302028390",
+      "amount": "1",
+      "status": 2,
+      "original_amount": "1",
+      "unowned_id": "25180851297",
+      "unowned_contextid": "2",
+      "background_color": "",
+      "icon_url": "-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXH5ApeO4YmlhxYQknCRvCo04DEVlxkKgpopbmkOVUw7ODHTi1P7-O6nYeDg7n3YL6Bw2lQ7cZy27yTp9X00Qztrxc4Y2DwLYCRJw9tZQ3ZrAPrx-a-m9bi67t5CePh",
+      "icon_url_large": "-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXH5ApeO4YmlhxYQknCRvCo04DEVlxkKgpopbmkOVUw7ODHTi1P7-O6nYeDg8j4MqnWkyVSu8Ah3-vA8I_22QHm-Uo9amH6cNLBcg89aF7Ur1jtxbvm08TpupWY1zI97SZLY2Jj",
+      "descriptions": [
+        {
+          "type": "html",
+          "value": "Exterior: Factory New"
+        },
+        {
+          "type": "html",
+          "value": " "
+        },
+        {
+          "type": "html",
+          "value": "The SCAR-20 is a semi-automatic sniper rifle that trades a high rate of fire and powerful long-distance damage for sluggish movement speed and big price tag. It has individual parts spray-painted tan, navy and dark green.\n\n<i>Rona Sabri still hasn't forgiven Sebastien for not selecting her to go after Turner</i>"
+        },
+        {
+          "type": "html",
+          "value": " "
+        },
+        {
+          "type": "html",
+          "value": "The Safehouse Collection",
+          "color": "9da1a9"
+        },
+        {
+          "type": "html",
+          "value": " "
+        }
+      ],
+      "tradable": 0,
+      "actions": [
+        {
+          "link": "steam://rungame/730/76561202255233023/+csgo_econ_action_preview%20M3558412893859390792A%assetid%D14001163485186786584",
+          "name": "Inspect in Game..."
+        }
+      ],
+      "owner_descriptions": [
+        {
+          "type": "html",
+          "value": " "
+        },
+        {
+          "type": "html",
+          "value": "Tradable After Mar 23, 2022 (7:00:00) GMT",
+          "color": "ff4040"
+        }
+      ],
+      "name": "SCAR-20 | Contractor",
+      "name_color": "D2D2D2",
+      "type": "Consumer Grade Sniper Rifle",
+      "market_name": "SCAR-20 | Contractor (Factory New)",
+      "market_hash_name": "SCAR-20 | Contractor (Factory New)",
+      "market_actions": [
+        {
+          "link": "steam://rungame/730/76561202255233023/+csgo_econ_action_preview%20M3558412893859390792A%assetid%D14001163485186786584",
+          "name": "Inspect in Game..."
+        }
+      ],
+      "commodity": 0,
+      "market_tradable_restriction": 7,
+      "marketable": 1,
+      "app_icon": "https://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/730/69f7ebe2735c366c65c0b33dae00e12dc40edbe4.jpg",
+      "owner": 0
+    }
+  },
+  "3558412893859391552": {
+    "listing_id": "3558412893859391552",
+    "buyer_pay": "16,69 p\u0443\u0431.",
+    "you_receive": "14,52 p\u0443\u0431.",
+    "created_on": "16 Mar",
+    "need_confirmation": false,
+    "description": {
+      "currency": 0,
+      "appid": 730,
+      "contextid": "2",
+      "id": "25180532606",
+      "classid": "4780119000",
+      "instanceid": "188530139",
+      "amount": "1",
+      "status": 2,
+      "original_amount": "1",
+      "unowned_id": "25180532606",
+      "unowned_contextid": "2",
+      "background_color": "",
+      "icon_url": "-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXH5ApeO4YmlhxYQknCRvCo04DEVlxkKgpoor-mcjhnwMzcdD4b09a3mYKCjvbLO77QgHIfupJzjruU8Ijw2Afs_0A6ZT2hJ4HEe1A9NA2E-ge7wO65h5XuuprInGwj5He59PZFaw",
+      "icon_url_large": "-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXH5ApeO4YmlhxYQknCRvCo04DEVlxkKgpoor-mcjhnwMzcdD4b09a3mYKCjvbLO77QgHJu5MRjjeyPp9v3jAbhrhc5Y2r7IIXDdFJsYl-B8we9lLu7hcC5vZ2fy3ExvCcjsGGdwUL7rboKLQ",
+      "descriptions": [
+        {
+          "type": "html",
+          "value": "Exterior: Battle-Scarred"
+        },
+        {
+          "type": "html",
+          "value": " "
+        },
+        {
+          "type": "html",
+          "value": "An ideal pistol for the Terrorist on the move, the Tec-9 is lethal in close quarters and features a high magazine capacity. It has been hand painted and laser-etched with middle eastern patterns.\n\n<i>Shahrazad told 1000 tales... this is the last one you'll hear</i>"
+        },
+        {
+          "type": "html",
+          "value": " "
+        },
+        {
+          "type": "html",
+          "value": "The Wildfire Collection",
+          "color": "9da1a9"
+        },
+        {
+          "type": "html",
+          "value": " "
+        }
+      ],
+      "tradable": 0,
+      "actions": [
+        {
+          "link": "steam://rungame/730/76561202255233023/+csgo_econ_action_preview%20M3558412893859391552A%assetid%D17188698833204244926",
+          "name": "Inspect in Game..."
+        }
+      ],
+      "owner_descriptions": [
+        {
+          "type": "html",
+          "value": " "
+        },
+        {
+          "type": "html",
+          "value": "Tradable After Mar 23, 2022 (7:00:00) GMT",
+          "color": "ff4040"
+        }
+      ],
+      "name": "Tec-9 | Jambiya",
+      "name_color": "D2D2D2",
+      "type": "Mil-Spec Grade Pistol",
+      "market_name": "Tec-9 | Jambiya (Battle-Scarred)",
+      "market_hash_name": "Tec-9 | Jambiya (Battle-Scarred)",
+      "market_actions": [
+        {
+          "link": "steam://rungame/730/76561202255233023/+csgo_econ_action_preview%20M3558412893859391552A%assetid%D17188698833204244926",
+          "name": "Inspect in Game..."
+        }
+      ],
+      "commodity": 0,
+      "market_tradable_restriction": 7,
+      "marketable": 1,
+      "app_icon": "https://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/730/69f7ebe2735c366c65c0b33dae00e12dc40edbe4.jpg",
+      "owner": 0
+    }
+  },
+  "3558412893859392432": {
+    "listing_id": "3558412893859392432",
+    "buyer_pay": "17,82 p\u0443\u0431.",
+    "you_receive": "15,50 p\u0443\u0431.",
+    "created_on": "16 Mar",
+    "need_confirmation": false,
+    "description": {
+      "currency": 0,
+      "appid": 730,
+      "contextid": "2",
+      "id": "25180450910",
+      "classid": "4780149314",
+      "instanceid": "188530139",
+      "amount": "1",
+      "status": 2,
+      "original_amount": "1",
+      "unowned_id": "25180450910",
+      "unowned_contextid": "2",
+      "background_color": "",
+      "icon_url": "-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXH5ApeO4YmlhxYQknCRvCo04DEVlxkKgposem2LFZf1OD3dm5R642JkImYheLkJ4Tck29Y_cg_3-_Apdim3Fe1-0dpMWygI9CVeg87NV7Q-FS-kO_ugZ-0tJvOmCFguD5iuygCK57o4g",
+      "icon_url_large": "-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXH5ApeO4YmlhxYQknCRvCo04DEVlxkKgposem2LFZf1OD3dm5R642JkImYheLkJ4Tck29Y_chOhujT8om73VK1-0dvZzqiJIKQIANtZg7Q8li7lejvh5O87ZzIzXtrsiYltCzenQv330-NNlTldw",
+      "descriptions": [
+        {
+          "type": "html",
+          "value": "Exterior: Well-Worn"
+        },
+        {
+          "type": "html",
+          "value": " "
+        },
+        {
+          "type": "html",
+          "value": "The pricy G3SG1 lowers movement speed considerably but compensates with a higher rate of fire than other sniper rifles. It has been painted with a custom red, white, and charcoal-colored DDPAT pattern.\n\n<i>Disruptingly intricate</i>"
+        },
+        {
+          "type": "html",
+          "value": " "
+        },
+        {
+          "type": "html",
+          "value": "The Operation Broken Fang Collection",
+          "color": "9da1a9"
+        },
+        {
+          "type": "html",
+          "value": " "
+        }
+      ],
+      "tradable": 0,
+      "actions": [
+        {
+          "link": "steam://rungame/730/76561202255233023/+csgo_econ_action_preview%20M3558412893859392432A%assetid%D5388781979368207007",
+          "name": "Inspect in Game..."
+        }
+      ],
+      "owner_descriptions": [
+        {
+          "type": "html",
+          "value": " "
+        },
+        {
+          "type": "html",
+          "value": "Tradable After Mar 23, 2022 (7:00:00) GMT",
+          "color": "ff4040"
+        }
+      ],
+      "name": "G3SG1 | Digital Mesh",
+      "name_color": "D2D2D2",
+      "type": "Mil-Spec Grade Sniper Rifle",
+      "market_name": "G3SG1 | Digital Mesh (Well-Worn)",
+      "market_hash_name": "G3SG1 | Digital Mesh (Well-Worn)",
+      "market_actions": [
+        {
+          "link": "steam://rungame/730/76561202255233023/+csgo_econ_action_preview%20M3558412893859392432A%assetid%D5388781979368207007",
+          "name": "Inspect in Game..."
+        }
+      ],
+      "commodity": 0,
+      "market_tradable_restriction": 7,
+      "marketable": 1,
+      "app_icon": "https://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/730/69f7ebe2735c366c65c0b33dae00e12dc40edbe4.jpg",
+      "owner": 0
+    }
+  },
+  "3558412893859393312": {
+    "listing_id": "3558412893859393312",
+    "buyer_pay": "18,93 p\u0443\u0431.",
+    "you_receive": "16,47 p\u0443\u0431.",
+    "created_on": "16 Mar",
+    "need_confirmation": false,
+    "description": {
+      "currency": 0,
+      "appid": 730,
+      "contextid": "2",
+      "id": "25180347845",
+      "classid": "4780126494",
+      "instanceid": "188530170",
+      "amount": "1",
+      "status": 2,
+      "original_amount": "1",
+      "unowned_id": "25180347845",
+      "unowned_contextid": "2",
+      "background_color": "",
+      "icon_url": "-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXH5ApeO4YmlhxYQknCRvCo04DEVlxkKgporrf0e1Y07PTbTiVPvYznwL-cluP3O7_ekVRc7cF4n-SPpN2liQzl_BdoNjj3cI-RdAQ6NVHWqFO2xbu9gpO8usvKzSEw7CR07WGdwUI61pfVAw",
+      "icon_url_large": "-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXH5ApeO4YmlhxYQknCRvCo04DEVlxkKgporrf0e1Y07PTbTiVPvYznwL-cluP3O7_ekVRc7cF4n-T--Y3nj1H6-kJsMmHyI9KRJ1c6NVHU_FO6lefp15S0uMibzndjvHYh4SyOyRHhiQYMMLJ-8W6EIQ",
+      "descriptions": [
+        {
+          "type": "html",
+          "value": "Exterior: Well-Worn"
+        },
+        {
+          "type": "html",
+          "value": " "
+        },
+        {
+          "type": "html",
+          "value": "This item features StatTrak\u2122 technology, which tracks certain statistics when equipped by its owner.",
+          "color": "99ccff"
+        },
+        {
+          "type": "html",
+          "value": " "
+        },
+        {
+          "type": "html",
+          "value": "This item tracks Confirmed Kills.",
+          "color": "CF6A32"
+        },
+        {
+          "type": "html",
+          "value": " "
+        },
+        {
+          "type": "html",
+          "value": "The XM1014 is a powerful fully automatic shotgun that justifies its heftier price tag with the ability to paint a room with lead fast. It has been custom painted with a jade green base and two guardian lions watching either direction. A third lion has been painted beneath the rear sight.\n\n<i>Protect and prosper</i>"
+        },
+        {
+          "type": "html",
+          "value": " "
+        },
+        {
+          "type": "html",
+          "value": "The Operation Riptide Collection",
+          "color": "9da1a9"
+        },
+        {
+          "type": "html",
+          "value": " "
+        }
+      ],
+      "tradable": 0,
+      "actions": [
+        {
+          "link": "steam://rungame/730/76561202255233023/+csgo_econ_action_preview%20M3558412893859393312A%assetid%D2785690087139309645",
+          "name": "Inspect in Game..."
+        }
+      ],
+      "owner_descriptions": [
+        {
+          "type": "html",
+          "value": " "
+        },
+        {
+          "type": "html",
+          "value": "Tradable After Mar 23, 2022 (7:00:00) GMT",
+          "color": "ff4040"
+        }
+      ],
+      "name": "StatTrak\u2122 XM1014 | Watchdog",
+      "name_color": "CF6A32",
+      "type": "StatTrak\u2122 Mil-Spec Grade Shotgun",
+      "market_name": "StatTrak\u2122 XM1014 | Watchdog (Well-Worn)",
+      "market_hash_name": "StatTrak\u2122 XM1014 | Watchdog (Well-Worn)",
+      "market_actions": [
+        {
+          "link": "steam://rungame/730/76561202255233023/+csgo_econ_action_preview%20M3558412893859393312A%assetid%D2785690087139309645",
+          "name": "Inspect in Game..."
+        }
+      ],
+      "commodity": 0,
+      "market_tradable_restriction": 7,
+      "marketable": 1,
+      "app_icon": "https://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/730/69f7ebe2735c366c65c0b33dae00e12dc40edbe4.jpg",
+      "owner": 0
+    }
+  },
+  "3558412893859394172": {
+    "listing_id": "3558412893859394172",
+    "buyer_pay": "47,03 p\u0443\u0431.",
+    "you_receive": "40,90 p\u0443\u0431.",
+    "created_on": "16 Mar",
+    "need_confirmation": false,
+    "description": {
+      "currency": 0,
+      "appid": 730,
+      "contextid": "2",
+      "id": "25180109996",
+      "classid": "4780104118",
+      "instanceid": "188530139",
+      "amount": "1",
+      "status": 2,
+      "original_amount": "1",
+      "unowned_id": "25180109996",
+      "unowned_contextid": "2",
+      "background_color": "",
+      "icon_url": "-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXQ9QVcJY8gulROWUvRVeKs1MrsUFxkNhFbs_WoKh8u1qbOIjga79-zxdjbx6_2YO-FxW8DscZw07-S8NWjig3trkNlYTyhJJjVLFEZaoRMog",
+      "icon_url_large": "-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXQ9QVcJY8gulROWUvRVeKs1MrsUFxkNhFbs_WoKh9f3_LadjgM6oXmzITfxKPwN7-Dw25V6ZNy2e3D892l3gKw-Bc4N2qid9fDdVM4YUaQpAbk3MU98g",
+      "descriptions": [
+        {
+          "type": "html",
+          "value": "This sticker can be applied to any weapon you own and can be scraped to look more worn. You can scrape the same sticker multiple times, making it a bit more worn each time, until it is removed from the weapon."
+        },
+        {
+          "type": "html",
+          "value": " "
+        },
+        {
+          "type": "html",
+          "value": "",
+          "color": "00a000"
+        }
+      ],
+      "tradable": 0,
+      "actions": [
+        {
+          "link": "steam://rungame/730/76561202255233023/+csgo_econ_action_preview%20M3558412893859394172A%assetid%D5533306835816529453",
+          "name": "Inspect in Game..."
+        }
+      ],
+      "owner_descriptions": [
+        {
+          "type": "html",
+          "value": " "
+        },
+        {
+          "type": "html",
+          "value": "Tradable After Mar 23, 2022 (7:00:00) GMT",
+          "color": "ff4040"
+        }
+      ],
+      "name": "Sticker | Max",
+      "name_color": "D2D2D2",
+      "type": "High Grade Sticker",
+      "market_name": "Sticker | Max",
+      "market_hash_name": "Sticker | Max",
+      "market_actions": [
+        {
+          "link": "steam://rungame/730/76561202255233023/+csgo_econ_action_preview%20M3558412893859394172A%assetid%D5533306835816529453",
+          "name": "Inspect in Game..."
+        }
+      ],
+      "commodity": 1,
+      "market_tradable_restriction": 7,
+      "marketable": 1,
+      "app_icon": "https://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/730/69f7ebe2735c366c65c0b33dae00e12dc40edbe4.jpg",
+      "owner": 0
+    }
+  },
+  "3558412893859397132": {
+    "listing_id": "3558412893859397132",
+    "buyer_pay": "14,44 p\u0443\u0431.",
+    "you_receive": "12,57 p\u0443\u0431.",
+    "created_on": "16 Mar",
+    "need_confirmation": false,
+    "description": {
+      "currency": 0,
+      "appid": 730,
+      "contextid": "2",
+      "id": "25179495531",
+      "classid": "4780120765",
+      "instanceid": "519977179",
+      "amount": "1",
+      "status": 2,
+      "original_amount": "1",
+      "unowned_id": "25179495531",
+      "unowned_contextid": "2",
+      "background_color": "",
+      "icon_url": "-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXH5ApeO4YmlhxYQknCRvCo04DEVlxkKgpou7umeldf2-r3ZzhQ-NWxm5ObhfbtDLndg25u5cB1g_zMu4-i2QW1rxI-Zmz3IoPGd1Q8aF2C-1a8lero18Xqv5SdynBh7HR05HnD30vgb97pEYo",
+      "icon_url_large": "-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXH5ApeO4YmlhxYQknCRvCo04DEVlxkKgpou7umeldf2-r3ZzhQ-NWxm5ObhfbtDLndg25u5cB1g_zMyoD0mlOx5RBrYmiicNfHdwM6Z12D_wO8yOu9hJG-6JnOmyE1uSl25n3fyUHhgB5SLrs4felBJcA",
+      "descriptions": [
+        {
+          "type": "html",
+          "value": "Exterior: Field-Tested"
+        },
+        {
+          "type": "html",
+          "value": " "
+        },
+        {
+          "type": "html",
+          "value": "Essentially a box that bullets come out of, the MAC-10 SMG boasts a high rate of fire, with poor spread accuracy and high recoil as trade-offs. A hydrographic pattern of the 51st floor's construction, HVAC, and wiring plans has been applied.\n\n<i>All according to plan\u2026</i>"
+        },
+        {
+          "type": "html",
+          "value": " "
+        },
+        {
+          "type": "html",
+          "value": "The 2021 Vertigo Collection",
+          "color": "9da1a9"
+        },
+        {
+          "type": "html",
+          "value": " "
+        }
+      ],
+      "tradable": 0,
+      "actions": [
+        {
+          "link": "steam://rungame/730/76561202255233023/+csgo_econ_action_preview%20M3558412893859397132A%assetid%D596340887406093027",
+          "name": "Inspect in Game..."
+        }
+      ],
+      "owner_descriptions": [
+        {
+          "type": "html",
+          "value": " "
+        },
+        {
+          "type": "html",
+          "value": "Tradable After Mar 23, 2022 (7:00:00) GMT",
+          "color": "ff4040"
+        }
+      ],
+      "name": "MAC-10 | Strats",
+      "name_color": "D2D2D2",
+      "type": "Consumer Grade SMG",
+      "market_name": "MAC-10 | Strats (Field-Tested)",
+      "market_hash_name": "MAC-10 | Strats (Field-Tested)",
+      "market_actions": [
+        {
+          "link": "steam://rungame/730/76561202255233023/+csgo_econ_action_preview%20M3558412893859397132A%assetid%D596340887406093027",
+          "name": "Inspect in Game..."
+        }
+      ],
+      "commodity": 0,
+      "market_tradable_restriction": 7,
+      "marketable": 1,
+      "app_icon": "https://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/730/69f7ebe2735c366c65c0b33dae00e12dc40edbe4.jpg",
+      "owner": 0
+    }
+  },
+  "3558412893859398192": {
+    "listing_id": "3558412893859398192",
+    "buyer_pay": "14,44 p\u0443\u0431.",
+    "you_receive": "12,57 p\u0443\u0431.",
+    "created_on": "16 Mar",
+    "need_confirmation": false,
+    "description": {
+      "currency": 0,
+      "appid": 730,
+      "contextid": "2",
+      "id": "25179489931",
+      "classid": "4780189822",
+      "instanceid": "480085569",
+      "amount": "1",
+      "status": 2,
+      "original_amount": "1",
+      "unowned_id": "25179489931",
+      "unowned_contextid": "2",
+      "background_color": "",
+      "icon_url": "-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXH5ApeO4YmlhxYQknCRvCo04DEVlxkKgposem2LFZf2-r3ZzxQ5d-3mY-0mvLwOq7c2GgAvsBw07-TpY2s0ADnrhdrZTzyIIeQegBtMFjS8wW5xrju0ZG76pzXiSw0x5uRifY",
+      "icon_url_large": "-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXH5ApeO4YmlhxYQknCRvCo04DEVlxkKgposem2LFZf2-r3ZzxQ5d-3mY-0mvLwOq7cqWdQ-sJ0xOqQo4n00QLm-xJla23wcdKSdFM_ZVnV8lftkO7tjMK7u8vInXVk7CE8pSGKJjHM08g",
+      "descriptions": [
+        {
+          "type": "html",
+          "value": "Exterior: Well-Worn"
+        },
+        {
+          "type": "html",
+          "value": " "
+        },
+        {
+          "type": "html",
+          "value": "The pricy G3SG1 lowers movement speed considerably but compensates with a higher rate of fire than other sniper rifles. It has been painted using a VariCamo patterned hydrographic.\n\n<i>Rebuilding only comes in the wake of destruction</i>"
+        },
+        {
+          "type": "html",
+          "value": " "
+        },
+        {
+          "type": "html",
+          "value": "The Safehouse Collection",
+          "color": "9da1a9"
+        },
+        {
+          "type": "html",
+          "value": " "
+        }
+      ],
+      "tradable": 0,
+      "actions": [
+        {
+          "link": "steam://rungame/730/76561202255233023/+csgo_econ_action_preview%20M3558412893859398192A%assetid%D5631310296423095871",
+          "name": "Inspect in Game..."
+        }
+      ],
+      "owner_descriptions": [
+        {
+          "type": "html",
+          "value": " "
+        },
+        {
+          "type": "html",
+          "value": "Tradable After Mar 23, 2022 (7:00:00) GMT",
+          "color": "ff4040"
+        }
+      ],
+      "name": "G3SG1 | VariCamo",
+      "name_color": "D2D2D2",
+      "type": "Industrial Grade Sniper Rifle",
+      "market_name": "G3SG1 | VariCamo (Well-Worn)",
+      "market_hash_name": "G3SG1 | VariCamo (Well-Worn)",
+      "market_actions": [
+        {
+          "link": "steam://rungame/730/76561202255233023/+csgo_econ_action_preview%20M3558412893859398192A%assetid%D5631310296423095871",
+          "name": "Inspect in Game..."
+        }
+      ],
+      "commodity": 0,
+      "market_tradable_restriction": 7,
+      "marketable": 1,
+      "app_icon": "https://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/730/69f7ebe2735c366c65c0b33dae00e12dc40edbe4.jpg",
+      "owner": 0
+    }
+  },
+  "3558412893859403492": {
+    "listing_id": "3558412893859403492",
+    "buyer_pay": "17,82 p\u0443\u0431.",
+    "you_receive": "15,50 p\u0443\u0431.",
+    "created_on": "16 Mar",
+    "need_confirmation": false,
+    "description": {
+      "currency": 0,
+      "appid": 730,
+      "contextid": "2",
+      "id": "25178742838",
+      "classid": "4780145984",
+      "instanceid": "188530139",
+      "amount": "1",
+      "status": 2,
+      "original_amount": "1",
+      "unowned_id": "25178742838",
+      "unowned_contextid": "2",
+      "background_color": "",
+      "icon_url": "-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXH5ApeO4YmlhxYQknCRvCo04DEVlxkKgporrf0e1Y07PLZTiVPvYznwL-YlOL5ManYl1RZ7cRnk6fAoNyljQTh-BVvNmGmdoDDJlU8MwmFqFO6ybvnhMK1uJ6cziZj6yIn-z-DyORWjMSs",
+      "icon_url_large": "-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXH5ApeO4YmlhxYQknCRvCo04DEVlxkKgporrf0e1Y07PLZTiVPvYznwL-YlOL5ManYl1RZ7cRnk9bN9J7yjRq1_kNsNmn2J9CWJw5rM16GrgK8k7-615S4tMjByCZqviN34ivdzheyn1gSOdVgztn5",
+      "descriptions": [
+        {
+          "type": "html",
+          "value": "Exterior: Battle-Scarred"
+        },
+        {
+          "type": "html",
+          "value": " "
+        },
+        {
+          "type": "html",
+          "value": "The XM1014 is a powerful fully automatic shotgun that justifies its heftier price tag with the ability to paint a room with lead fast. It has been subtly painted with metallic paints.\n\n<i>Let's not be hasty: there may be another way to get Valeria's attention... - A Father's Love Part 3</i>"
+        },
+        {
+          "type": "html",
+          "value": " "
+        },
+        {
+          "type": "html",
+          "value": "The Shadow Collection",
+          "color": "9da1a9"
+        },
+        {
+          "type": "html",
+          "value": " "
+        }
+      ],
+      "tradable": 0,
+      "actions": [
+        {
+          "link": "steam://rungame/730/76561202255233023/+csgo_econ_action_preview%20M3558412893859403492A%assetid%D9971018383550691879",
+          "name": "Inspect in Game..."
+        }
+      ],
+      "owner_descriptions": [
+        {
+          "type": "html",
+          "value": " "
+        },
+        {
+          "type": "html",
+          "value": "Tradable After Mar 23, 2022 (7:00:00) GMT",
+          "color": "ff4040"
+        }
+      ],
+      "name": "XM1014 | Scumbria",
+      "name_color": "D2D2D2",
+      "type": "Mil-Spec Grade Shotgun",
+      "market_name": "XM1014 | Scumbria (Battle-Scarred)",
+      "market_hash_name": "XM1014 | Scumbria (Battle-Scarred)",
+      "market_actions": [
+        {
+          "link": "steam://rungame/730/76561202255233023/+csgo_econ_action_preview%20M3558412893859403492A%assetid%D9971018383550691879",
+          "name": "Inspect in Game..."
+        }
+      ],
+      "commodity": 0,
+      "market_tradable_restriction": 7,
+      "marketable": 1,
+      "app_icon": "https://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/730/69f7ebe2735c366c65c0b33dae00e12dc40edbe4.jpg",
+      "owner": 0
+    }
+  },
+  "3558412893859862652": {
+    "listing_id": "3558412893859862652",
+    "buyer_pay": "38,03 p\u0443\u0431.",
+    "you_receive": "33,08 p\u0443\u0431.",
+    "created_on": "16 Mar",
+    "need_confirmation": false,
+    "description": {
+      "currency": 0,
+      "appid": 730,
+      "contextid": "2",
+      "id": "25183595024",
+      "classid": "4781184371",
+      "instanceid": "188530139",
+      "amount": "1",
+      "status": 2,
+      "original_amount": "1",
+      "unowned_id": "25183595024",
+      "unowned_contextid": "2",
+      "background_color": "",
+      "icon_url": "-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXQ9QVcJY8gulRKTV7YRumg0t2cQ099KAVFv6maIAJ50PvJeDN9_N2mkZLFx6egZezVw28Bv8Qn37iZo9Wg0APlr0FuYWr2JYOWJAU_MguGqFO9wfCv28Ei7z1VdQ",
+      "icon_url_large": "-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXQ9QVcJY8gulRKTV7YRumg0t2cQ099KAVFv6maIAJ50PvJeDN9_N2mkZK0m_bmNL6fw2kIvsEn3u3EodShigDt_kBoZj_7doPEJwdqZ1mF-wTol-7tjZO1vYOJlyVEAP9y3A",
+      "descriptions": [
+        {
+          "type": "html",
+          "value": "This sticker can be applied to any weapon you own and can be scraped to look more worn. You can scrape the same sticker multiple times, making it a bit more worn each time, until it is removed from the weapon."
+        },
+        {
+          "type": "html",
+          "value": " "
+        },
+        {
+          "type": "html",
+          "value": "",
+          "color": "00a000"
+        }
+      ],
+      "tradable": 0,
+      "actions": [
+        {
+          "link": "steam://rungame/730/76561202255233023/+csgo_econ_action_preview%20M3558412893859862652A%assetid%D3054567882229111521",
+          "name": "Inspect in Game..."
+        }
+      ],
+      "owner_descriptions": [
+        {
+          "type": "html",
+          "value": " "
+        },
+        {
+          "type": "html",
+          "value": "Tradable After Mar 24, 2022 (7:00:00) GMT",
+          "color": "ff4040"
+        }
+      ],
+      "name": "Sticker | Primaris Keychain",
+      "name_color": "D2D2D2",
+      "type": "High Grade Sticker",
+      "market_name": "Sticker | Primaris Keychain",
+      "market_hash_name": "Sticker | Primaris Keychain",
+      "market_actions": [
+        {
+          "link": "steam://rungame/730/76561202255233023/+csgo_econ_action_preview%20M3558412893859862652A%assetid%D3054567882229111521",
+          "name": "Inspect in Game..."
+        }
+      ],
+      "commodity": 1,
+      "market_tradable_restriction": 7,
+      "marketable": 1,
+      "app_icon": "https://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/730/69f7ebe2735c366c65c0b33dae00e12dc40edbe4.jpg",
+      "owner": 0
+    }
+  },
+  "3558412893860628812": {
+    "listing_id": "3558412893860628812",
+    "buyer_pay": "15,56 p\u0443\u0431.",
+    "you_receive": "13,54 p\u0443\u0431.",
+    "created_on": "16 Mar",
+    "need_confirmation": false,
+    "description": {
+      "currency": 0,
+      "appid": 730,
+      "contextid": "2",
+      "id": "25184124104",
+      "classid": "4781166492",
+      "instanceid": "188530170",
+      "amount": "1",
+      "status": 2,
+      "original_amount": "1",
+      "unowned_id": "25184124104",
+      "unowned_contextid": "2",
+      "background_color": "",
+      "icon_url": "-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXH5ApeO4YmlhxYQknCRvCo04DEVlxkKgpopL-zJAt21uH3di59_tmgm4ydkuXLJ6nUl29u5cB1g_zMu9jz21fh_BZuZG72ItDBJgVtMF_Q8ljqyb-9hMW16s-az3QxuCgq7HnD30vgnoDdgMo",
+      "icon_url_large": "-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXH5ApeO4YmlhxYQknCRvCo04DEVlxkKgpopL-zJAt21uH3di59_tmgm4ydkuXLJ6nUl29u5cB1g_zMyoD0mlOx5Uc6YDr2I9OXdQE7Zw6ErlLtkOnvjZ_otMybyCFq7HJx43mPnR2_iB5SLrs4EVaMFLw",
+      "descriptions": [
+        {
+          "type": "html",
+          "value": "Exterior: Well-Worn"
+        },
+        {
+          "type": "html",
+          "value": " "
+        },
+        {
+          "type": "html",
+          "value": "This item features StatTrak\u2122 technology, which tracks certain statistics when equipped by its owner.",
+          "color": "99ccff"
+        },
+        {
+          "type": "html",
+          "value": " "
+        },
+        {
+          "type": "html",
+          "value": "This item tracks Confirmed Kills.",
+          "color": "CF6A32"
+        },
+        {
+          "type": "html",
+          "value": " "
+        },
+        {
+          "type": "html",
+          "value": "The R8 Revolver delivers a highly accurate and powerful round at the expense of a lengthy trigger-pull. Firing rapidly by fanning the hammer may be the best option when point-blank stopping power is required. The metal has been meticulously pressed and the grip has been coated with a patterned, blue rubber.\n\n<i>Every enemy is a nail</i>"
+        },
+        {
+          "type": "html",
+          "value": " "
+        },
+        {
+          "type": "html",
+          "value": "The Clutch Collection",
+          "color": "9da1a9"
+        },
+        {
+          "type": "html",
+          "value": " "
+        }
+      ],
+      "tradable": 0,
+      "actions": [
+        {
+          "link": "steam://rungame/730/76561202255233023/+csgo_econ_action_preview%20M3558412893860628812A%assetid%D3377951116267760364",
+          "name": "Inspect in Game..."
+        }
+      ],
+      "owner_descriptions": [
+        {
+          "type": "html",
+          "value": " "
+        },
+        {
+          "type": "html",
+          "value": "Tradable After Mar 24, 2022 (7:00:00) GMT",
+          "color": "ff4040"
+        }
+      ],
+      "name": "StatTrak\u2122 R8 Revolver | Grip",
+      "name_color": "CF6A32",
+      "type": "StatTrak\u2122 Mil-Spec Grade Pistol",
+      "market_name": "StatTrak\u2122 R8 Revolver | Grip (Well-Worn)",
+      "market_hash_name": "StatTrak\u2122 R8 Revolver | Grip (Well-Worn)",
+      "market_actions": [
+        {
+          "link": "steam://rungame/730/76561202255233023/+csgo_econ_action_preview%20M3558412893860628812A%assetid%D3377951116267760364",
+          "name": "Inspect in Game..."
+        }
+      ],
+      "commodity": 0,
+      "market_tradable_restriction": 7,
+      "marketable": 1,
+      "app_icon": "https://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/730/69f7ebe2735c366c65c0b33dae00e12dc40edbe4.jpg",
+      "owner": 0
+    }
+  },
+  "3558412893865169572": {
+    "listing_id": "3558412893865169572",
+    "buyer_pay": "17,82 p\u0443\u0431.",
+    "you_receive": "15,50 p\u0443\u0431.",
+    "created_on": "16 Mar",
+    "need_confirmation": false,
+    "description": {
+      "currency": 0,
+      "appid": 730,
+      "contextid": "2",
+      "id": "25190706581",
+      "classid": "4781167239",
+      "instanceid": "188530170",
+      "amount": "1",
+      "status": 2,
+      "original_amount": "1",
+      "unowned_id": "25190706581",
+      "unowned_contextid": "2",
+      "background_color": "",
+      "icon_url": "-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXH5ApeO4YmlhxYQknCRvCo04DEVlxkKgpot6-iFABz7PLddgJW5Mm4kIWZhOP7Ibbunm5Q_tw_2erFo9qt2lWyqkc-ZWD6cNKccQ43YVCFrFa9w-q7h5Pv78-fmCZi7D5iuyhSvU_twg",
+      "icon_url_large": "-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXH5ApeO4YmlhxYQknCRvCo04DEVlxkKgpot6-iFABz7PLddgJW5Mm4kIWZhOP7Ibbunm5Q_txOhujT8om721ew_UVkYTildYLHdA83NQzZ-Vm3wea605G_vpmdy3cw6XJ0tCvcyQv330_a28mNiQ",
+      "descriptions": [
+        {
+          "type": "html",
+          "value": "Exterior: Battle-Scarred"
+        },
+        {
+          "type": "html",
+          "value": " "
+        },
+        {
+          "type": "html",
+          "value": "This item features StatTrak\u2122 technology, which tracks certain statistics when equipped by its owner.",
+          "color": "99ccff"
+        },
+        {
+          "type": "html",
+          "value": " "
+        },
+        {
+          "type": "html",
+          "value": "This item tracks Confirmed Kills.",
+          "color": "CF6A32"
+        },
+        {
+          "type": "html",
+          "value": " "
+        },
+        {
+          "type": "html",
+          "value": "Powerful and accurate, the AUG scoped assault rifle compensates for its long reload times with low spread and a high rate of fire. Its gunmetal base coat has been finished with gold highlights, rear facing arrows, and a mischievous looking cat.\n\n<i>Thunderstorms are nature's purr</i>"
+        },
+        {
+          "type": "html",
+          "value": " "
+        },
+        {
+          "type": "html",
+          "value": "The Prisma 2 Collection",
+          "color": "9da1a9"
+        },
+        {
+          "type": "html",
+          "value": " "
+        }
+      ],
+      "tradable": 0,
+      "actions": [
+        {
+          "link": "steam://rungame/730/76561202255233023/+csgo_econ_action_preview%20M3558412893865169572A%assetid%D2937690603877751878",
+          "name": "Inspect in Game..."
+        }
+      ],
+      "owner_descriptions": [
+        {
+          "type": "html",
+          "value": " "
+        },
+        {
+          "type": "html",
+          "value": "Tradable After Mar 24, 2022 (7:00:00) GMT",
+          "color": "ff4040"
+        }
+      ],
+      "name": "StatTrak\u2122 AUG | Tom Cat",
+      "name_color": "CF6A32",
+      "type": "StatTrak\u2122 Mil-Spec Grade Rifle",
+      "market_name": "StatTrak\u2122 AUG | Tom Cat (Battle-Scarred)",
+      "market_hash_name": "StatTrak\u2122 AUG | Tom Cat (Battle-Scarred)",
+      "market_actions": [
+        {
+          "link": "steam://rungame/730/76561202255233023/+csgo_econ_action_preview%20M3558412893865169572A%assetid%D2937690603877751878",
+          "name": "Inspect in Game..."
+        }
+      ],
+      "commodity": 0,
+      "market_tradable_restriction": 7,
+      "marketable": 1,
+      "app_icon": "https://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/730/69f7ebe2735c366c65c0b33dae00e12dc40edbe4.jpg",
+      "owner": 0
+    }
+  },
+  "3558412893865170692": {
+    "listing_id": "3558412893865170692",
+    "buyer_pay": "26,80 p\u0443\u0431.",
+    "you_receive": "23,31 p\u0443\u0431.",
+    "created_on": "16 Mar",
+    "need_confirmation": false,
+    "description": {
+      "currency": 0,
+      "appid": 730,
+      "contextid": "2",
+      "id": "25188033064",
+      "classid": "4781164293",
+      "instanceid": "188530139",
+      "amount": "1",
+      "status": 2,
+      "original_amount": "1",
+      "unowned_id": "25188033064",
+      "unowned_contextid": "2",
+      "background_color": "",
+      "icon_url": "-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXQ9QVcJY8gulReXx6ACOe-hZ_sUAlLIxZes7ShZV80gaORdWlHvIvnltbdz_WkMLnSxjwG7pV0jLiUot703gbg-BVlNW7tZNjCtITrWfg",
+      "icon_url_large": "-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXQ9QVcJY8gulReXx6ACOe-hZ_sUAlLIxZes7ShFAthwfTNP2gVvo7vzYPYlqf3MenVkG8FvpEnjL6Wpd3w3lDl-kZua2j7I4fEewQgIQaH0rOmQjU",
+      "descriptions": [
+        {
+          "type": "html",
+          "value": "This sticker can be applied to any weapon you own and can be scraped to look more worn. You can scrape the same sticker multiple times, making it a bit more worn each time, until it is removed from the weapon."
+        },
+        {
+          "type": "html",
+          "value": " "
+        },
+        {
+          "type": "html",
+          "value": "",
+          "color": "00a000"
+        }
+      ],
+      "tradable": 0,
+      "actions": [
+        {
+          "link": "steam://rungame/730/76561202255233023/+csgo_econ_action_preview%20M3558412893865170692A%assetid%D2308846490926437391",
+          "name": "Inspect in Game..."
+        }
+      ],
+      "owner_descriptions": [
+        {
+          "type": "html",
+          "value": " "
+        },
+        {
+          "type": "html",
+          "value": "Tradable After Mar 24, 2022 (7:00:00) GMT",
+          "color": "ff4040"
+        }
+      ],
+      "name": "Sticker | Friend Code",
+      "name_color": "D2D2D2",
+      "type": "High Grade Sticker",
+      "market_name": "Sticker | Friend Code",
+      "market_hash_name": "Sticker | Friend Code",
+      "market_actions": [
+        {
+          "link": "steam://rungame/730/76561202255233023/+csgo_econ_action_preview%20M3558412893865170692A%assetid%D2308846490926437391",
+          "name": "Inspect in Game..."
+        }
+      ],
+      "commodity": 1,
+      "market_tradable_restriction": 7,
+      "marketable": 1,
+      "app_icon": "https://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/730/69f7ebe2735c366c65c0b33dae00e12dc40edbe4.jpg",
+      "owner": 0
+    }
+  },
+  "3558412893865172432": {
+    "listing_id": "3558412893865172432",
+    "buyer_pay": "16,69 p\u0443\u0431.",
+    "you_receive": "14,52 p\u0443\u0431.",
+    "created_on": "16 Mar",
+    "need_confirmation": false,
+    "description": {
+      "currency": 0,
+      "appid": 730,
+      "contextid": "2",
+      "id": "25185280635",
+      "classid": "4781179737",
+      "instanceid": "188530170",
+      "amount": "1",
+      "status": 2,
+      "original_amount": "1",
+      "unowned_id": "25185280635",
+      "unowned_contextid": "2",
+      "background_color": "",
+      "icon_url": "-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXH5ApeO4YmlhxYQknCRvCo04DEVlxkKgpotaDyfgZf0Ob3cicVueO1kZKKnPjgNoTZk2pH8Ysn0ruQpoqnjALlrRJlMDqhJoOdew4-N1HU81O6x-rpjZDtvJ-dyXo1pGB8srmu1rON",
+      "icon_url_large": "-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXH5ApeO4YmlhxYQknCRvCo04DEVlxkKgpotaDyfgZf0Ob3cicVueO1kZKKnPjgNoTZk2pH8fp9i_vG8MKj0Abl-BVuN2_yctecIVVsY13Y81m-l-frjJS4upnPwXQyuiJ25XeLgVXp1lj2fD2H",
+      "descriptions": [
+        {
+          "type": "html",
+          "value": "Exterior: Battle-Scarred"
+        },
+        {
+          "type": "html",
+          "value": " "
+        },
+        {
+          "type": "html",
+          "value": "This item features StatTrak\u2122 technology, which tracks certain statistics when equipped by its owner.",
+          "color": "99ccff"
+        },
+        {
+          "type": "html",
+          "value": " "
+        },
+        {
+          "type": "html",
+          "value": "This item tracks Confirmed Kills.",
+          "color": "CF6A32"
+        },
+        {
+          "type": "html",
+          "value": " "
+        },
+        {
+          "type": "html",
+          "value": "A fully automatic variant of the CZ75, the CZ75-Auto is the ideal short-term choice for turning the tables and gaining your opponents weapon. But with very little ammo in the magazine, strong trigger discipline is required. The copper colored ceramic finish is wearing away with use.\n\n<i>Better with age</i>"
+        },
+        {
+          "type": "html",
+          "value": " "
+        },
+        {
+          "type": "html",
+          "value": "The Prisma 2 Collection",
+          "color": "9da1a9"
+        },
+        {
+          "type": "html",
+          "value": " "
+        }
+      ],
+      "tradable": 0,
+      "actions": [
+        {
+          "link": "steam://rungame/730/76561202255233023/+csgo_econ_action_preview%20M3558412893865172432A%assetid%D7513348383610330459",
+          "name": "Inspect in Game..."
+        }
+      ],
+      "owner_descriptions": [
+        {
+          "type": "html",
+          "value": " "
+        },
+        {
+          "type": "html",
+          "value": "Tradable After Mar 24, 2022 (7:00:00) GMT",
+          "color": "ff4040"
+        }
+      ],
+      "name": "StatTrak\u2122 CZ75-Auto | Distressed",
+      "name_color": "CF6A32",
+      "type": "StatTrak\u2122 Mil-Spec Grade Pistol",
+      "market_name": "StatTrak\u2122 CZ75-Auto | Distressed (Battle-Scarred)",
+      "market_hash_name": "StatTrak\u2122 CZ75-Auto | Distressed (Battle-Scarred)",
+      "market_actions": [
+        {
+          "link": "steam://rungame/730/76561202255233023/+csgo_econ_action_preview%20M3558412893865172432A%assetid%D7513348383610330459",
+          "name": "Inspect in Game..."
+        }
+      ],
+      "commodity": 0,
+      "market_tradable_restriction": 7,
+      "marketable": 1,
+      "app_icon": "https://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/730/69f7ebe2735c366c65c0b33dae00e12dc40edbe4.jpg",
+      "owner": 0
+    }
+  },
+  "3558412893873523212": {
+    "listing_id": "3558412893873523212",
+    "buyer_pay": "18,93 p\u0443\u0431.",
+    "you_receive": "16,47 p\u0443\u0431.",
+    "created_on": "18 Mar",
+    "need_confirmation": false,
+    "description": {
+      "currency": 0,
+      "appid": 730,
+      "contextid": "2",
+      "id": "25199671913",
+      "classid": "4782235933",
+      "instanceid": "188530170",
+      "amount": "1",
+      "status": 2,
+      "original_amount": "1",
+      "unowned_id": "25199671913",
+      "unowned_contextid": "2",
+      "background_color": "",
+      "icon_url": "-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXH5ApeO4YmlhxYQknCRvCo04DEVlxkKgpouL-iLhFf2-r3fzhF6cqJkIGRjfvxDLbUkmJE5Ysi2LjF84ijjgWx_0tkMG6hI4OWdwdtNAzW_1jrkO2705fvvJ7Nn3EypGB8smY-FtJF",
+      "icon_url_large": "-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXH5ApeO4YmlhxYQknCRvCo04DEVlxkKgpouL-iLhFf2-r3fzhF6cqJkIGRjfvxDLbUkmJE5fp9i_vG8MKm2gWwrRdqNWimII6dIQFsZl3T_1DtlLrpgJ_p7Z6dn3MwuiMms3yMgVXp1g766OZB",
+      "descriptions": [
+        {
+          "type": "html",
+          "value": "Exterior: Field-Tested"
+        },
+        {
+          "type": "html",
+          "value": " "
+        },
+        {
+          "type": "html",
+          "value": "This item features StatTrak\u2122 technology, which tracks certain statistics when equipped by its owner.",
+          "color": "99ccff"
+        },
+        {
+          "type": "html",
+          "value": " "
+        },
+        {
+          "type": "html",
+          "value": "This item tracks Confirmed Kills.",
+          "color": "CF6A32"
+        },
+        {
+          "type": "html",
+          "value": " "
+        },
+        {
+          "type": "html",
+          "value": "The Negev is a beast that can keep the enemy at bay with its pin-point supressive fire, provided you have the luxury of time to gain control over it. It has been covered in blue and white zebra stripe decals.\n\n<i>Finally, a gun for trivia lovers</i>"
+        },
+        {
+          "type": "html",
+          "value": " "
+        },
+        {
+          "type": "html",
+          "value": "The Gamma 2 Collection",
+          "color": "9da1a9"
+        },
+        {
+          "type": "html",
+          "value": " "
+        }
+      ],
+      "tradable": 0,
+      "actions": [
+        {
+          "link": "steam://rungame/730/76561202255233023/+csgo_econ_action_preview%20M3558412893873523212A%assetid%D1039467764867398474",
+          "name": "Inspect in Game..."
+        }
+      ],
+      "owner_descriptions": [
+        {
+          "type": "html",
+          "value": " "
+        },
+        {
+          "type": "html",
+          "value": "Tradable After Mar 25, 2022 (7:00:00) GMT",
+          "color": "ff4040"
+        }
+      ],
+      "name": "StatTrak\u2122 Negev | Dazzle",
+      "name_color": "CF6A32",
+      "type": "StatTrak\u2122 Mil-Spec Grade Machinegun",
+      "market_name": "StatTrak\u2122 Negev | Dazzle (Field-Tested)",
+      "market_hash_name": "StatTrak\u2122 Negev | Dazzle (Field-Tested)",
+      "market_actions": [
+        {
+          "link": "steam://rungame/730/76561202255233023/+csgo_econ_action_preview%20M3558412893873523212A%assetid%D1039467764867398474",
+          "name": "Inspect in Game..."
+        }
+      ],
+      "commodity": 0,
+      "market_tradable_restriction": 7,
+      "marketable": 1,
+      "app_icon": "https://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/730/69f7ebe2735c366c65c0b33dae00e12dc40edbe4.jpg",
+      "owner": 0
+    }
+  },
+  "3558412893873524072": {
+    "listing_id": "3558412893873524072",
+    "buyer_pay": "20,06 p\u0443\u0431.",
+    "you_receive": "17,45 p\u0443\u0431.",
+    "created_on": "18 Mar",
+    "need_confirmation": false,
+    "description": {
+      "currency": 0,
+      "appid": 730,
+      "contextid": "2",
+      "id": "25196687991",
+      "classid": "4782841851",
+      "instanceid": "302028390",
+      "amount": "1",
+      "status": 2,
+      "original_amount": "1",
+      "unowned_id": "25196687991",
+      "unowned_contextid": "2",
+      "background_color": "",
+      "icon_url": "-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXH5ApeO4YmlhxYQknCRvCo04DEVlxkKgposLOzLhRlxfbGTjVb09q5hoWYg8j6OrzZglRd4cJ5nqfH9t6h3Qzs_RE5N2CmI46ccQM-YFrXrFm6xb-50JC_6p7Nn3RnsyMk-z-DyFDWgkdW",
+      "icon_url_large": "-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXH5ApeO4YmlhxYQknCRvCo04DEVlxkKgposLOzLhRlxfbGTjVb09q5hoWYg8j6OrzZglRd4cJ5ntbN9J7yjRqyqEFoZmH7ItTAJg9rZlDZ-VS-wOzo0564uMyfnHRg7CMms3nZlhaxn1gSOfnw_UtQ",
+      "descriptions": [
+        {
+          "type": "html",
+          "value": "Exterior: Factory New"
+        },
+        {
+          "type": "html",
+          "value": " "
+        },
+        {
+          "type": "html",
+          "value": "Highly accurate and armor-piercing, the pricy Five-Seven is a slow-loader that compensates with a generous 20-round magazine and forgiving recoil. It has been painted using a forest camouflage hydrographic.\n\n<i>The woods can be a dangerous place... never travel alone</i>"
+        },
+        {
+          "type": "html",
+          "value": " "
+        },
+        {
+          "type": "html",
+          "value": "The Train Collection",
+          "color": "9da1a9"
+        },
+        {
+          "type": "html",
+          "value": " "
+        },
+        {
+          "type": "html",
+          "value": "<br><div id=\"sticker_info\" name=\"sticker_info\" title=\"Sticker\" style=\"border: 2px solid rgb(102, 102, 102); border-radius: 6px; width=100; margin:4px; padding:8px;\"><center><img width=64 height=48 src=\"https://steamcdn-a.akamaihd.net/apps/730/icons/econ/stickers/stockh2021/ren.815c5eec559e4fb88fcbb9d4fe93b8e10993b384.png\"><img width=64 height=48 src=\"https://steamcdn-a.akamaihd.net/apps/730/icons/econ/stickers/rmr2020/faze.c6b3aabd6ab3b00df1f6178bf44c59d934c35bdc.png\"><br>Sticker: Renegades | Stockholm 2021, FaZe | 2020 RMR</center></div>"
+        }
+      ],
+      "tradable": 0,
+      "actions": [
+        {
+          "link": "steam://rungame/730/76561202255233023/+csgo_econ_action_preview%20M3558412893873524072A%assetid%D4803905392190963921",
+          "name": "Inspect in Game..."
+        }
+      ],
+      "owner_descriptions": [
+        {
+          "type": "html",
+          "value": " "
+        },
+        {
+          "type": "html",
+          "value": "Tradable After Mar 25, 2022 (7:00:00) GMT",
+          "color": "ff4040"
+        }
+      ],
+      "name": "Five-SeveN | Forest Night",
+      "name_color": "D2D2D2",
+      "type": "Consumer Grade Pistol",
+      "market_name": "Five-SeveN | Forest Night (Factory New)",
+      "market_hash_name": "Five-SeveN | Forest Night (Factory New)",
+      "market_actions": [
+        {
+          "link": "steam://rungame/730/76561202255233023/+csgo_econ_action_preview%20M3558412893873524072A%assetid%D4803905392190963921",
+          "name": "Inspect in Game..."
+        }
+      ],
+      "commodity": 0,
+      "market_tradable_restriction": 7,
+      "marketable": 1,
+      "app_icon": "https://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/730/69f7ebe2735c366c65c0b33dae00e12dc40edbe4.jpg",
+      "owner": 0
+    }
+  },
+  "3558412893873524992": {
+    "listing_id": "3558412893873524992",
+    "buyer_pay": "18,93 p\u0443\u0431.",
+    "you_receive": "16,47 p\u0443\u0431.",
+    "created_on": "18 Mar",
+    "need_confirmation": false,
+    "description": {
+      "currency": 0,
+      "appid": 730,
+      "contextid": "2",
+      "id": "25193414180",
+      "classid": "4782449060",
+      "instanceid": "188530139",
+      "amount": "1",
+      "status": 2,
+      "original_amount": "1",
+      "unowned_id": "25193414180",
+      "unowned_contextid": "2",
+      "background_color": "",
+      "icon_url": "-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXH5ApeO4YmlhxYQknCRvCo04DEVlxkKgpot6-iFBRw7P7NYjV9_92wkZSSlfv1MLDummJW4NE_3riWo9r2jFbs_RBrMW_1JteRIQA9YF6C-Fm4xenqhMW5uJTNySQy7D5iuyjPnxcPTA",
+      "icon_url_large": "-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXH5ApeO4YmlhxYQknCRvCo04DEVlxkKgpot6-iFBRw7P7NYjV9_92wkZSSlfv1MLDummJW4NFOhujT8om73AXj_UU_Nzv7ItWSIAA4YwnUqVe9wOi9h566uJrMyCFmvikm5SmMyQv3309I2L3VTQ",
+      "descriptions": [
+        {
+          "type": "html",
+          "value": "Exterior: Minimal Wear"
+        },
+        {
+          "type": "html",
+          "value": " "
+        },
+        {
+          "type": "html",
+          "value": "This item commemorates the 2021 PGL Stockholm CS:GO Championship.",
+          "color": "ffd700"
+        },
+        {
+          "type": "html",
+          "value": " "
+        },
+        {
+          "type": "html",
+          "value": "It was dropped during the Challengers Stage match between Team Spirit and Astralis.",
+          "color": "ffd700"
+        },
+        {
+          "type": "html",
+          "value": " "
+        },
+        {
+          "type": "html",
+          "value": "Powerful and accurate, the AUG scoped assault rifle compensates for its long reload times with low spread and a high rate of fire. It has been spray painted with a brown, grey, and red mesh pattern.\n\n<i>Clear a path</i>"
+        },
+        {
+          "type": "html",
+          "value": " "
+        },
+        {
+          "type": "html",
+          "value": "The 2018 Inferno Collection",
+          "color": "9da1a9"
+        },
+        {
+          "type": "html",
+          "value": " "
+        },
+        {
+          "type": "html",
+          "value": "<br><div id=\"sticker_info\" name=\"sticker_info\" title=\"Sticker\" style=\"border: 2px solid rgb(102, 102, 102); border-radius: 6px; width=100; margin:4px; padding:8px;\"><center><img width=64 height=48 src=\"https://steamcdn-a.akamaihd.net/apps/730/icons/econ/stickers/stockh2021/pgl_gold.e78a028f9fe095047c344e3e0718ec8ecf75137b.png\"><img width=64 height=48 src=\"https://steamcdn-a.akamaihd.net/apps/730/icons/econ/stickers/stockh2021/astr_gold.e99e6a7d00a3114dbb8ba714781ecdbc206ec085.png\"><img width=64 height=48 src=\"https://steamcdn-a.akamaihd.net/apps/730/icons/econ/stickers/tournament_assets/de_inferno_gold.c3587c5762ffb2ff7558c78498a8dce313fb49b1.png\"><img width=64 height=48 src=\"https://steamcdn-a.akamaihd.net/apps/730/icons/econ/stickers/stockh2021/spir_gold.5fdb53503c06cbee47db3b58337f72b446665a46.png\"><br>Sticker: PGL (Gold) | Stockholm 2021, Astralis (Gold) | Stockholm 2021, Inferno (Gold), Team Spirit (Gold) | Stockholm 2021</center></div>"
+        }
+      ],
+      "tradable": 0,
+      "actions": [
+        {
+          "link": "steam://rungame/730/76561202255233023/+csgo_econ_action_preview%20M3558412893873524992A%assetid%D9387969111929835530",
+          "name": "Inspect in Game..."
+        }
+      ],
+      "owner_descriptions": [
+        {
+          "type": "html",
+          "value": " "
+        },
+        {
+          "type": "html",
+          "value": "Tradable After Mar 25, 2022 (7:00:00) GMT",
+          "color": "ff4040"
+        }
+      ],
+      "name": "Souvenir AUG | Sweeper",
+      "name_color": "FFD700",
+      "type": "Souvenir Consumer Grade Rifle",
+      "market_name": "Souvenir AUG | Sweeper (Minimal Wear)",
+      "market_hash_name": "Souvenir AUG | Sweeper (Minimal Wear)",
+      "market_actions": [
+        {
+          "link": "steam://rungame/730/76561202255233023/+csgo_econ_action_preview%20M3558412893873524992A%assetid%D9387969111929835530",
+          "name": "Inspect in Game..."
+        }
+      ],
+      "commodity": 0,
+      "market_tradable_restriction": 7,
+      "marketable": 1,
+      "app_icon": "https://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/730/69f7ebe2735c366c65c0b33dae00e12dc40edbe4.jpg",
+      "owner": 0
+    }
+  },
+  "3558412893902683012": {
+    "listing_id": "3558412893902683012",
+    "buyer_pay": "26,80 p\u0443\u0431.",
+    "you_receive": "23,31 p\u0443\u0431.",
+    "created_on": "22 Mar",
+    "need_confirmation": false,
+    "description": {
+      "currency": 0,
+      "appid": 730,
+      "contextid": "2",
+      "id": "25220857913",
+      "classid": "4785486192",
+      "instanceid": "188530139",
+      "amount": "1",
+      "status": 2,
+      "original_amount": "1",
+      "unowned_id": "25220857913",
+      "unowned_contextid": "2",
+      "background_color": "",
+      "icon_url": "-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXQ9QVcJY8gulRNQ0PCS_2S093SRFM7KQFSooWmOQJ3nfCaI25A79jgw4XTwPatY7-DkmkH7cYn3L6V89v0igfkqRJvYG6mcIaLMlhptYuHVxU",
+      "icon_url_large": "-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXQ9QVcJY8gulRNQ0PCS_2S093SRFM7KQFSooWmOQJ37P_JYzpHotnjldnfk6WhMuOAk20EvpR33b2V99qn2gSxrkRoZmumdo7Gew85YVrOug_pPma5OC0",
+      "descriptions": [
+        {
+          "type": "html",
+          "value": "This sticker can be applied to any weapon you own and can be scraped to look more worn. You can scrape the same sticker multiple times, making it a bit more worn each time, until it is removed from the weapon."
+        },
+        {
+          "type": "html",
+          "value": " "
+        },
+        {
+          "type": "html",
+          "value": "",
+          "color": "00a000"
+        }
+      ],
+      "tradable": 0,
+      "actions": [
+        {
+          "link": "steam://rungame/730/76561202255233023/+csgo_econ_action_preview%20M3558412893902683012A%assetid%D16619447618033532653",
+          "name": "Inspect in Game..."
+        }
+      ],
+      "owner_descriptions": [
+        {
+          "type": "html",
+          "value": " "
+        },
+        {
+          "type": "html",
+          "value": "Tradable After Mar 28, 2022 (7:00:00) GMT",
+          "color": "ff4040"
+        }
+      ],
+      "name": "Sticker | Poorly Drawn Leet Crew",
+      "name_color": "D2D2D2",
+      "type": "High Grade Sticker",
+      "market_name": "Sticker | Poorly Drawn Leet Crew",
+      "market_hash_name": "Sticker | Poorly Drawn Leet Crew",
+      "market_actions": [
+        {
+          "link": "steam://rungame/730/76561202255233023/+csgo_econ_action_preview%20M3558412893902683012A%assetid%D16619447618033532653",
+          "name": "Inspect in Game..."
+        }
+      ],
+      "commodity": 1,
+      "market_tradable_restriction": 7,
+      "marketable": 1,
+      "app_icon": "https://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/730/69f7ebe2735c366c65c0b33dae00e12dc40edbe4.jpg",
+      "owner": 0
+    }
+  },
+  "3558412893902684032": {
+    "listing_id": "3558412893902684032",
+    "buyer_pay": "63,88 p\u0443\u0431.",
+    "you_receive": "55,56 p\u0443\u0431.",
+    "created_on": "22 Mar",
+    "need_confirmation": false,
+    "description": {
+      "currency": 0,
+      "appid": 730,
+      "contextid": "2",
+      "id": "25214443538",
+      "classid": "4784465106",
+      "instanceid": "188530139",
+      "amount": "1",
+      "status": 2,
+      "original_amount": "1",
+      "unowned_id": "25214443538",
+      "unowned_contextid": "2",
+      "background_color": "",
+      "icon_url": "-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXQ9QVcJY8gulRfSV7cTur_h56KHE59IjtEor-yIgIy2MzOfjROoo3iktjSxPKsMOmIxTsJsJUn3rvFrYrz2ga28hFpZDuiJI6RdAZoNFrOug_pkY038ZY",
+      "icon_url_large": "-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXQ9QVcJY8gulRfSV7cTur_h56KHE59IjtEor-yIgIy2MzOfjRO09C3hoeO2fGmZ7iIkGhV7sNw2erAptuljAW3rUNvNzz6cIKQd1c8M1uErAXrxezxxcjrzN7N7-8",
+      "descriptions": [
+        {
+          "type": "html",
+          "value": "This item commemorates the 2019 StarLadder Berlin CS:GO Championship.",
+          "color": "ffd700"
+        },
+        {
+          "type": "html",
+          "value": " "
+        },
+        {
+          "type": "html",
+          "value": "This sticker can be applied to any weapon you own and can be scraped to look more worn. You can scrape the same sticker multiple times, making it a bit more worn each time, until it is removed from the weapon."
+        },
+        {
+          "type": "html",
+          "value": " "
+        },
+        {
+          "type": "html",
+          "value": "This foil sticker was autographed by professional player Jacky Yip playing for Team Liquid at Berlin 2019."
+        },
+        {
+          "type": "html",
+          "value": " "
+        },
+        {
+          "type": "html",
+          "value": "",
+          "color": "00a000"
+        }
+      ],
+      "tradable": 0,
+      "actions": [
+        {
+          "link": "steam://rungame/730/76561202255233023/+csgo_econ_action_preview%20M3558412893902684032A%assetid%D12413619605700074637",
+          "name": "Inspect in Game..."
+        }
+      ],
+      "owner_descriptions": [
+        {
+          "type": "html",
+          "value": " "
+        },
+        {
+          "type": "html",
+          "value": "Tradable After Mar 27, 2022 (7:00:00) GMT",
+          "color": "ff4040"
+        }
+      ],
+      "name": "Sticker | Stewie2K (Foil) | Berlin 2019",
+      "name_color": "D2D2D2",
+      "type": "Remarkable Sticker",
+      "market_name": "Sticker | Stewie2K (Foil) | Berlin 2019",
+      "market_hash_name": "Sticker | Stewie2K (Foil) | Berlin 2019",
+      "market_actions": [
+        {
+          "link": "steam://rungame/730/76561202255233023/+csgo_econ_action_preview%20M3558412893902684032A%assetid%D12413619605700074637",
+          "name": "Inspect in Game..."
+        }
+      ],
+      "commodity": 1,
+      "market_tradable_restriction": 7,
+      "marketable": 1,
+      "app_icon": "https://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/730/69f7ebe2735c366c65c0b33dae00e12dc40edbe4.jpg",
+      "owner": 0
+    }
+  }
+}
