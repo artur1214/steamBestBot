@@ -11,7 +11,7 @@ STEAM_OPENID = 'https://steamcommunity.com/openid/login'
 SKINS_TABLE_STEAM = 'https://steamcommunity.com/openid/login?openid.ns=http%3A%2F%2Fspecs.openid.net%2Fauth%2F2.0&openid.mode=checkid_setup&openid.return_to=https%3A%2F%2Fskins-table.xyz%2Fsteam%2F%3Flogin&openid.realm=https%3A%2F%2Fskins-table.xyz&openid.ns.sreg=http%3A%2F%2Fopenid.net%2Fextensions%2Fsreg%2F1.1&openid.claimed_id=http%3A%2F%2Fspecs.openid.net%2Fauth%2F2.0%2Fidentifier_select&openid.identity=http%3A%2F%2Fspecs.openid.net%2Fauth%2F2.0%2Fidentifier_select'
 
 #sa = SteamAuthenticator(json.load(open('./main.mafile')))
-KEY = ''
+KEY = '844B04DC34A8FFA0DA4DC6AD31A5B531'
 steam_client = SteamClient(KEY)
 
 
@@ -45,7 +45,7 @@ def login(log, password):
     # return _user
 
 
-def auth_to_skinstable(user=None, credentials=('1', '1')):
+def auth_to_skinstable(user=None, credentials=('picachyy', '546546nnnn')):
     if not user:
         user = login(*credentials)
     res = user.session.get(

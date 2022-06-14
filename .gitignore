@@ -1,5 +1,4 @@
-/venv
-/.idea
-/__pycache__
-main.mafile
+venv/
+.idea
+__pycache__
 main.maFile
